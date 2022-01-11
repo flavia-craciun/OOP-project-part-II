@@ -1,0 +1,18 @@
+Starting audit...
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/Child.java:107:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/NiceList.java:23:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/ages/AgeRangeFactory.java:6:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/ages/AgeRangeFactory.java:11:9: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/ages/AgeRangeFactory.java:20:9: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/rounds/Round0.java:13:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/rounds/Round0.java:19:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/rounds/Round0.java:26:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/rounds/Round0.java:33:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/rounds/YearlyRound.java:19:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/rounds/YearlyRound.java:25:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/rounds/YearlyRound.java:31:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/rounds/YearlyRound.java:40:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/rounds/YearlyRound.java:54:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /Users/flaviacraciun/Desktop/Facultate II/POO/teme/etapa 2 proiect/proiect-etapa2-OOP/./src/nicelist/rounds/YearlyRound.java:66:5: Missing a Javadoc comment. [MissingJavadocMethod]
+Audit done.
+Checkstyle ends with 15 errors.
