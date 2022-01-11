@@ -10,7 +10,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public final class Teen extends Child  {
-    public static class Builder {
+    public static final class Builder {
         private int id;
         private String lastName;
         private String firstName;
@@ -21,7 +21,7 @@ public final class Teen extends Child  {
         private Double niceScoreBonus = 0.0;
         private ElvesType elf;
 
-        public Builder(ChildInput child) {
+        public Builder(final ChildInput child) {
             this.id = child.getId();
             this.age = child.getAge();
             this.firstName = child.getFirstName();
@@ -29,11 +29,11 @@ public final class Teen extends Child  {
             this.city = child.getCity();
             this.giftsPreferences.addAll(child.getGiftsPreferences());
             this.elf = child.getElf();
-            niceScoreHistory.add(child.getNiceScore());
+            this.niceScoreHistory.add(child.getNiceScore());
         }
 
-        public Builder niceScoreBonus(Double niceScoreBonus) {
-            this.niceScoreBonus = niceScoreBonus;
+        public Builder niceScoreBonus(final Double scoreBonus) {
+            niceScoreBonus = scoreBonus;
             return this;
         }
 

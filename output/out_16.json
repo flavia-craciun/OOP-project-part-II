@@ -14,17 +14,17 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 0
       }, {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 1
+        "quantity" : 0
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -42,12 +42,12 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 0
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 7
+        "quantity" : 6
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -80,7 +80,7 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -95,15 +95,10 @@
       "niceScoreHistory" : [ 10.0 ],
       "assignedBudget" : 44.44444444444444,
       "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
-      }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -121,12 +116,12 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 0
       }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Bag of Candy",
+        "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -146,12 +141,7 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -169,7 +159,7 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -184,10 +174,10 @@
       "niceScoreHistory" : [ 10.0, 3.0 ],
       "assignedBudget" : 26.229508196721312,
       "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
+        "productName" : "Bag of Candy",
+        "price" : 20.0,
+        "category" : "Sweets",
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -202,15 +192,15 @@
       "niceScoreHistory" : [ 6.0 ],
       "assignedBudget" : 29.508196721311478,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Bag of Candy",
+        "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 2
+        "quantity" : 0
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -230,12 +220,7 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -253,7 +238,7 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -267,12 +252,7 @@
       "averageScore" : 5.166666666666667,
       "niceScoreHistory" : [ 10.0, 3.0, 5.0 ],
       "assignedBudget" : 24.031007751937988,
-      "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 2
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
     }, {
@@ -286,15 +266,10 @@
       "niceScoreHistory" : [ 6.0, 10.0 ],
       "assignedBudget" : 37.2093023255814,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Milk and Cookies",
+        "price" : 30.0,
         "category" : "Sweets",
-        "quantity" : 2
-      }, {
-        "productName" : "Teddy Bear",
-        "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -310,12 +285,7 @@
       "averageScore" : 3.0,
       "niceScoreHistory" : [ 2.0, 0.0, 8.0, 2.0 ],
       "assignedBudget" : 12.658227848101266,
-      "receivedGifts" : [ {
-        "productName" : "Teddy Bear",
-        "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 9
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
     }, {
@@ -329,10 +299,10 @@
       "niceScoreHistory" : [ 3.0, 8.0, 6.0, 3.0, 10.0 ],
       "assignedBudget" : 25.31645569620253,
       "receivedGifts" : [ {
-        "productName" : "Teddy Bear",
-        "price" : 5.0,
+        "productName" : "Castle",
+        "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 5
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
@@ -346,12 +316,7 @@
       "averageScore" : 6.7,
       "niceScoreHistory" : [ 10.0, 3.0, 5.0, 9.0 ],
       "assignedBudget" : 28.270042194092827,
-      "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"
     }, {
@@ -365,15 +330,10 @@
       "niceScoreHistory" : [ 6.0, 10.0, 8.0 ],
       "assignedBudget" : 33.755274261603375,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Milk and Cookies",
+        "price" : 30.0,
         "category" : "Sweets",
-        "quantity" : 2
-      }, {
-        "productName" : "Teddy Bear",
-        "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "pink"

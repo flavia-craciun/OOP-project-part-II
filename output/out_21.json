@@ -14,27 +14,27 @@
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 2
+        "quantity" : 0
       }, {
         "productName" : "Puzzle",
         "price" : 50.0,
         "category" : "Board Games",
-        "quantity" : 1
+        "quantity" : 0
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 6
       }, {
         "productName" : "Iphone",
         "price" : 700.0,
         "category" : "Technology",
-        "quantity" : 6
+        "quantity" : 4
       }, {
         "productName" : "Car",
         "price" : 20.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 5
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -58,17 +58,17 @@
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 2
+        "quantity" : 0
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 5
+        "quantity" : 4
       }, {
         "productName" : "Iphone",
         "price" : 700.0,
         "category" : "Technology",
-        "quantity" : 6
+        "quantity" : 4
       } ],
       "niceScoreBonus" : 80.0,
       "elf" : "white"

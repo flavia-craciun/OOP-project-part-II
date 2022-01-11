@@ -15,7 +15,7 @@ public final class Baby extends Child {
         super(child);
     }
 
-    public static class Builder {
+    public static final class Builder {
         private int id;
         private String lastName;
         private String firstName;
@@ -26,7 +26,7 @@ public final class Baby extends Child {
         private Double niceScoreBonus = 0.0;
         private ElvesType elf;
 
-        public Builder(ChildInput child) {
+        public Builder(final ChildInput child) {
             this.id = child.getId();
             this.age = child.getAge();
             this.firstName = child.getFirstName();
@@ -37,8 +37,8 @@ public final class Baby extends Child {
             this.niceScoreHistory.add(child.getNiceScore());
         }
 
-        public Builder niceScoreBonus(Double niceScoreBonus) {
-            this.niceScoreBonus = niceScoreBonus;
+        public Builder niceScoreBonus(final Double scoreBonus) {
+            niceScoreBonus = scoreBonus;
             return this;
         }
 
@@ -55,8 +55,8 @@ public final class Baby extends Child {
 
     @Override
     public void calculateAverageScore() {
-        Double averageScore = Constants.BABY_AVERAGE_SCORE +
-                Constants.BABY_AVERAGE_SCORE * super.getNiceScoreBonus() / 100;
+        Double averageScore = Constants.BABY_AVERAGE_SCORE
+                + Constants.BABY_AVERAGE_SCORE * super.getNiceScoreBonus() / 100;
         super.setAverageScore(averageScore);
     }
 }

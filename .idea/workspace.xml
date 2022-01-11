@@ -5,15 +5,14 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/checkstyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/checkstyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/common/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/common/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/gifts/DeliverPresents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/gifts/DeliverPresents.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/ages/AgeRangeFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/ages/AgeRangeFactory$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/ages/AgeRangeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/ages/AgeRangeFactory.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/ages/Baby.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/ages/Baby.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/ages/Kid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/ages/Kid.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/ages/Teen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/ages/Teen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/ages/YoungAdult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/ages/YoungAdult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/rounds/Round0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/rounds/Round0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/rounds/YearlyRound.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect-etapa2-OOP/nicelist/rounds/YearlyRound.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/out_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_1.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/out_10.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_10.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/out_11.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_11.json" afterDir="false" />
@@ -39,24 +38,30 @@
       <change beforePath="$PROJECT_DIR$/output/out_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_3.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/out_30.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_30.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/out_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_5.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_5.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/out_6.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_6.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/out_7.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_7.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/out_8.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_8.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/out_9.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gifts/DeliverPresents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gifts/DeliverPresents.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/nicelist/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nicelist/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nicelist/ages/AgeRangeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nicelist/ages/AgeRangeFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/nicelist/ages/Baby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nicelist/ages/Baby.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/nicelist/ages/Kid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nicelist/ages/Kid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/nicelist/ages/Teen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nicelist/ages/Teen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/nicelist/ages/YoungAdult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nicelist/ages/YoungAdult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nicelist/rounds/Round0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nicelist/rounds/Round0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nicelist/rounds/YearlyRound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nicelist/rounds/YearlyRound.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,21 +106,5 @@
       <updated>1641917913719</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/nicelist/ages/Teen.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/nicelist/rounds/Round0.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

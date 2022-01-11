@@ -14,17 +14,17 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 2
+        "quantity" : 0
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 4
+        "quantity" : 2
       }, {
         "productName" : "Harry Potter",
         "price" : 35.0,
         "category" : "Books",
-        "quantity" : 5
+        "quantity" : 3
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -44,17 +44,17 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 2
+        "quantity" : 0
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 4
+        "quantity" : 2
       }, {
         "productName" : "Harry Potter",
         "price" : 35.0,
         "category" : "Books",
-        "quantity" : 5
+        "quantity" : 3
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"

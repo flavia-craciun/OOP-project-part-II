@@ -14,12 +14,12 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 8
+        "quantity" : 2
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "yellow"
@@ -37,12 +37,12 @@
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 4
+        "quantity" : 0
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "white"
@@ -62,17 +62,17 @@
         "productName" : "Handbag",
         "price" : 200.0,
         "category" : "Clothes",
-        "quantity" : 6
+        "quantity" : 1
       }, {
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 8
+        "quantity" : 2
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "yellow"
@@ -92,12 +92,12 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 8
+        "quantity" : 2
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "yellow"
@@ -115,7 +115,7 @@
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 80.0,
       "elf" : "pink"
@@ -132,20 +132,20 @@
       "niceScoreHistory" : [ 4.0, 8.0, 8.0, 1.0 ],
       "assignedBudget" : 375.7608069164265,
       "receivedGifts" : [ {
-        "productName" : "Teddy Bear",
-        "price" : 5.0,
+        "productName" : "Doll",
+        "price" : 10.0,
         "category" : "Toys",
         "quantity" : 4
       }, {
         "productName" : "Handbag",
         "price" : 200.0,
         "category" : "Clothes",
-        "quantity" : 6
+        "quantity" : 1
       }, {
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 8
+        "quantity" : 2
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "yellow"
@@ -160,15 +160,15 @@
       "niceScoreHistory" : [ 6.0 ],
       "assignedBudget" : 511.23919308357347,
       "receivedGifts" : [ {
-        "productName" : "Teddy Bear",
-        "price" : 5.0,
+        "productName" : "Doll",
+        "price" : 10.0,
         "category" : "Toys",
         "quantity" : 4
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 80.0,
       "elf" : "pink"
@@ -188,15 +188,15 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 8
+        "quantity" : 2
       }, {
         "productName" : "Handbag",
         "price" : 200.0,
         "category" : "Clothes",
-        "quantity" : 6
+        "quantity" : 1
       }, {
-        "productName" : "Teddy Bear",
-        "price" : 5.0,
+        "productName" : "Doll",
+        "price" : 10.0,
         "category" : "Toys",
         "quantity" : 4
       } ],
@@ -216,17 +216,17 @@
         "productName" : "Handbag",
         "price" : 200.0,
         "category" : "Clothes",
-        "quantity" : 6
+        "quantity" : 1
       }, {
-        "productName" : "Teddy Bear",
-        "price" : 5.0,
+        "productName" : "Doll",
+        "price" : 10.0,
         "category" : "Toys",
         "quantity" : 4
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 80.0,
       "elf" : "pink"
@@ -244,12 +244,12 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 8
+        "quantity" : 2
       }, {
         "productName" : "Handbag",
         "price" : 200.0,
         "category" : "Clothes",
-        "quantity" : 6
+        "quantity" : 1
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "white"

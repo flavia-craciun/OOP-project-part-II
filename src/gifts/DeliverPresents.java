@@ -43,8 +43,9 @@ public abstract class DeliverPresents {
         for (Category giftPreference : childGiftsPreferences) {
             List<Gifts> giftsFromCategory = getGiftsFromCategory(giftPreference, santaGiftsList);
             for (Gifts gift : giftsFromCategory) {
-                if (gift.getPrice() <= budget) {
+                if (gift.getPrice() <= budget && gift.getQuantity() != 0) {
                     child.getReceivedGifts().add(gift);
+                    gift.setQuantity(gift.getQuantity() - 1);
                     budget = budget - gift.getPrice();
                     break;
                 }
@@ -58,7 +59,7 @@ public abstract class DeliverPresents {
      * @param category the parameter used to sort out the gifts by
      * @param santaGiftsList santa's gift list used to give out presents
      */
-    private static List<Gifts> getGiftsFromCategory(final Category category,
+    public static List<Gifts> getGiftsFromCategory(final Category category,
                                                     final List<Gifts> santaGiftsList) {
         HashMap<Gifts, Double> giftsFromCategory = new HashMap<>();
         for (Gifts gift : santaGiftsList) {

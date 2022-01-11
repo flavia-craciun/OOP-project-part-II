@@ -14,12 +14,12 @@
         "productName" : "Puzzle",
         "price" : 50.0,
         "category" : "Board Games",
-        "quantity" : 3
+        "quantity" : 0
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 4
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -50,17 +50,17 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 9
+        "quantity" : 6
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 6
+        "quantity" : 3
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 4
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -80,12 +80,12 @@
         "productName" : "Puzzle",
         "price" : 50.0,
         "category" : "Board Games",
-        "quantity" : 3
+        "quantity" : 0
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 4
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -116,17 +116,17 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 9
+        "quantity" : 6
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 6
+        "quantity" : 3
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 4
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -146,12 +146,12 @@
         "productName" : "Puzzle",
         "price" : 50.0,
         "category" : "Board Games",
-        "quantity" : 3
+        "quantity" : 0
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 9
+        "quantity" : 4
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -182,12 +182,12 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 9
+        "quantity" : 6
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 6
+        "quantity" : 3
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"

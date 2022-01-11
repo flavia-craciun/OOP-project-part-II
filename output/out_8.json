@@ -14,12 +14,12 @@
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 1
+        "quantity" : 0
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 9
+        "quantity" : 7
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -37,17 +37,12 @@
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 4
+        "quantity" : 1
       }, {
         "productName" : "Doll",
         "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 2
-      }, {
-        "productName" : "Headphones",
-        "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 1
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -64,15 +59,10 @@
       "niceScoreHistory" : [ 9.0, 3.0 ],
       "assignedBudget" : 348.1578947368421,
       "receivedGifts" : [ {
-        "productName" : "Headphones",
-        "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 1
-      }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 9
+        "quantity" : 7
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -90,17 +80,12 @@
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 4
+        "quantity" : 1
       }, {
         "productName" : "Doll",
         "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 2
-      }, {
-        "productName" : "Headphones",
-        "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 1
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -120,17 +105,17 @@
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 4
-      }, {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 2
-      }, {
-        "productName" : "Headphones",
-        "price" : 100.0,
-        "category" : "Technology",
         "quantity" : 1
+      }, {
+        "productName" : "Car",
+        "price" : 20.0,
+        "category" : "Toys",
+        "quantity" : 6
+      }, {
+        "productName" : "Laptop",
+        "price" : 500.0,
+        "category" : "Technology",
+        "quantity" : 7
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"

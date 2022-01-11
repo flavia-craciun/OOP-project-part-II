@@ -14,12 +14,12 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -37,12 +37,12 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Shoes",
         "price" : 70.0,
         "category" : "Clothes",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -60,12 +60,12 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -85,12 +85,12 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -108,12 +108,12 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Shoes",
         "price" : 70.0,
         "category" : "Clothes",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -131,12 +131,12 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -156,12 +156,12 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Shoes",
         "price" : 70.0,
         "category" : "Clothes",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -176,15 +176,10 @@
       "niceScoreHistory" : [ 3.0, 10.0, 10.0 ],
       "assignedBudget" : 617.3783783783783,
       "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 7
-      }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -201,15 +196,10 @@
       "niceScoreHistory" : [ 9.0, 10.0, 10.0, 10.0 ],
       "assignedBudget" : 661.7716535433071,
       "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 7
-      }, {
         "productName" : "Shoes",
         "price" : 70.0,
         "category" : "Clothes",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -224,15 +214,10 @@
       "niceScoreHistory" : [ 3.0, 10.0, 10.0, 10.0 ],
       "assignedBudget" : 631.228346456693,
       "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 7
-      }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"

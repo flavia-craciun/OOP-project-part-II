@@ -14,22 +14,22 @@
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 1
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 3
+        "quantity" : 0
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 5
+        "quantity" : 2
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 6
+        "quantity" : 3
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -49,22 +49,22 @@
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 1
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 3
+        "quantity" : 0
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 5
+        "quantity" : 2
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 6
+        "quantity" : 3
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"
@@ -84,22 +84,22 @@
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 1
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 3
+        "quantity" : 0
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 5
+        "quantity" : 2
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 6
+        "quantity" : 3
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "white"

@@ -14,7 +14,7 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
@@ -32,12 +32,12 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 6
+        "quantity" : 3
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
@@ -57,7 +57,7 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
@@ -75,12 +75,12 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 9
+        "quantity" : 7
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
@@ -100,12 +100,12 @@
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 6
+        "quantity" : 3
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
@@ -123,7 +123,7 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
@@ -143,17 +143,17 @@
         "productName" : "Teddy Bear",
         "price" : 5.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 6
+        "quantity" : 3
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 9
+        "quantity" : 7
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"

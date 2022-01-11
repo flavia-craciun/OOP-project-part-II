@@ -14,7 +14,7 @@
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 5
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "yellow"
@@ -32,22 +32,22 @@
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       }, {
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 3
+        "quantity" : 0
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 8
+        "quantity" : 5
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 5
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "black"
@@ -65,7 +65,7 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 3
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "black"
@@ -83,7 +83,7 @@
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "pink"
@@ -103,17 +103,17 @@
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 9
+        "quantity" : 6
       }, {
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 3
+        "quantity" : 0
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 5
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "yellow"
@@ -131,22 +131,22 @@
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       }, {
-        "productName" : "Uno",
-        "price" : 10.0,
+        "productName" : "Puzzle",
+        "price" : 50.0,
         "category" : "Board Games",
-        "quantity" : 3
+        "quantity" : 1
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 8
+        "quantity" : 5
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 5
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "black"
@@ -161,10 +161,10 @@
       "niceScoreHistory" : [ 7.0, 3.0 ],
       "assignedBudget" : 141.5740740740741,
       "receivedGifts" : [ {
-        "productName" : "Uno",
-        "price" : 10.0,
+        "productName" : "Puzzle",
+        "price" : 50.0,
         "category" : "Board Games",
-        "quantity" : 3
+        "quantity" : 1
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "black"
@@ -182,12 +182,12 @@
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 9
+        "quantity" : 6
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "pink"
@@ -205,17 +205,17 @@
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 8
+        "quantity" : 5
       }, {
-        "productName" : "Uno",
-        "price" : 10.0,
+        "productName" : "Puzzle",
+        "price" : 50.0,
         "category" : "Board Games",
-        "quantity" : 3
+        "quantity" : 1
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 50.0,
       "elf" : "yellow"
@@ -232,15 +232,10 @@
       "niceScoreHistory" : [ 5.0 ],
       "assignedBudget" : 46.83725690890481,
       "receivedGifts" : [ {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 3
-      }, {
-        "productName" : "Castle",
-        "price" : 15.0,
-        "category" : "Toys",
-        "quantity" : 5
+        "productName" : "Dress",
+        "price" : 45.0,
+        "category" : "Clothes",
+        "quantity" : 6
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "yellow"
@@ -255,20 +250,20 @@
       "niceScoreHistory" : [ 4.0, 10.0 ],
       "assignedBudget" : 85.15864892528148,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Bag of Candy",
+        "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       }, {
-        "productName" : "Uno",
-        "price" : 10.0,
+        "productName" : "Puzzle",
+        "price" : 50.0,
         "category" : "Board Games",
-        "quantity" : 3
+        "quantity" : 1
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 5
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "black"
@@ -283,20 +278,15 @@
       "niceScoreHistory" : [ 7.0, 3.0 ],
       "assignedBudget" : 46.83725690890481,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Bag of Candy",
+        "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       }, {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 3
-      }, {
-        "productName" : "Castle",
-        "price" : 15.0,
+        "productName" : "Car",
+        "price" : 20.0,
         "category" : "Toys",
-        "quantity" : 5
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "black"
@@ -310,12 +300,7 @@
       "averageScore" : 4.25,
       "niceScoreHistory" : [ 2.0, 5.0, 1.0 ],
       "assignedBudget" : 36.19242579324463,
-      "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 70.0,
       "elf" : "pink"
     }, {
@@ -329,15 +314,10 @@
       "niceScoreHistory" : [ 8.0, 2.0 ],
       "assignedBudget" : 85.15864892528148,
       "receivedGifts" : [ {
-        "productName" : "Uno",
-        "price" : 10.0,
+        "productName" : "Puzzle",
+        "price" : 50.0,
         "category" : "Board Games",
-        "quantity" : 3
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 1
       } ],
       "niceScoreBonus" : 50.0,
       "elf" : "yellow"
@@ -351,17 +331,7 @@
       "averageScore" : 3.6,
       "niceScoreHistory" : [ 2.0 ],
       "assignedBudget" : 30.657113613101334,
-      "receivedGifts" : [ {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 3
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 80.0,
       "elf" : "black"
     }, {
@@ -375,15 +345,10 @@
       "niceScoreHistory" : [ 7.0 ],
       "assignedBudget" : 85.15864892528148,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      }, {
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 8
+        "quantity" : 5
       } ],
       "niceScoreBonus" : 60.0,
       "elf" : "yellow"
@@ -403,22 +368,12 @@
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 8
-      }, {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 3
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
         "quantity" : 5
       }, {
-        "productName" : "Castle",
-        "price" : 15.0,
+        "productName" : "Car",
+        "price" : 20.0,
         "category" : "Toys",
-        "quantity" : 5
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "black"
@@ -433,15 +388,10 @@
       "niceScoreHistory" : [ 7.0, 3.0, 0.0 ],
       "assignedBudget" : 26.173550320192703,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      }, {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 3
+        "productName" : "Car",
+        "price" : 20.0,
+        "category" : "Toys",
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "black"
@@ -455,12 +405,7 @@
       "averageScore" : 5.27,
       "niceScoreHistory" : [ 2.0, 5.0, 1.0, 4.0 ],
       "assignedBudget" : 37.618530051113325,
-      "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 70.0,
       "elf" : "pink"
     }, {
@@ -474,15 +419,10 @@
       "niceScoreHistory" : [ 8.0, 2.0 ],
       "assignedBudget" : 71.38240996416191,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      }, {
-        "productName" : "Uno",
-        "price" : 10.0,
+        "productName" : "Puzzle",
+        "price" : 50.0,
         "category" : "Board Games",
-        "quantity" : 3
+        "quantity" : 1
       } ],
       "niceScoreBonus" : 50.0,
       "elf" : "yellow"
@@ -496,17 +436,7 @@
       "averageScore" : 3.6,
       "niceScoreHistory" : [ 2.0 ],
       "assignedBudget" : 25.697667587098287,
-      "receivedGifts" : [ {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 3
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 80.0,
       "elf" : "black"
     }, {
@@ -520,20 +450,15 @@
       "niceScoreHistory" : [ 7.0 ],
       "assignedBudget" : 71.38240996416191,
       "receivedGifts" : [ {
-        "productName" : "Castle",
-        "price" : 15.0,
+        "productName" : "Car",
+        "price" : 20.0,
         "category" : "Toys",
-        "quantity" : 5
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 8
+        "quantity" : 5
       } ],
       "niceScoreBonus" : 60.0,
       "elf" : "yellow"
@@ -548,15 +473,10 @@
       "niceScoreHistory" : [ 3.0 ],
       "assignedBudget" : 71.38240996416191,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      }, {
-        "productName" : "Castle",
-        "price" : 15.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 5
+        "quantity" : 4
       } ],
       "niceScoreBonus" : 50.0,
       "elf" : "yellow"
@@ -586,15 +506,10 @@
       "niceScoreHistory" : [ 4.0, 10.0 ],
       "assignedBudget" : 33.62493165664298,
       "receivedGifts" : [ {
-        "productName" : "Castle",
-        "price" : 15.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 5
-      }, {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 3
+        "quantity" : 4
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "black"
@@ -621,12 +536,7 @@
       "averageScore" : 3.5133333333333336,
       "niceScoreHistory" : [ 2.0, 5.0, 1.0, 4.0, 0.0 ],
       "assignedBudget" : 11.8135593220339,
-      "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 70.0,
       "elf" : "pink"
     }, {
@@ -639,12 +549,7 @@
       "averageScore" : 5.0,
       "niceScoreHistory" : [ 8.0, 2.0, 0.0 ],
       "assignedBudget" : 16.81246582832149,
-      "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 50.0,
       "elf" : "yellow"
     }, {
@@ -657,12 +562,7 @@
       "averageScore" : 3.6,
       "niceScoreHistory" : [ 2.0 ],
       "assignedBudget" : 12.104975396391472,
-      "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 80.0,
       "elf" : "black"
     }, {
@@ -676,15 +576,10 @@
       "niceScoreHistory" : [ 7.0 ],
       "assignedBudget" : 33.62493165664298,
       "receivedGifts" : [ {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 3
-      }, {
-        "productName" : "Castle",
-        "price" : 15.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 5
+        "quantity" : 4
       } ],
       "niceScoreBonus" : 60.0,
       "elf" : "yellow"
@@ -698,12 +593,7 @@
       "averageScore" : 6.75,
       "niceScoreHistory" : [ 3.0, 6.0 ],
       "assignedBudget" : 22.696828868234007,
-      "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 50.0,
       "elf" : "yellow"
     }, {
@@ -716,12 +606,7 @@
       "averageScore" : 4.2,
       "niceScoreHistory" : [ 3.0 ],
       "assignedBudget" : 14.122471295790051,
-      "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 40.0,
       "elf" : "black"
     }, {
@@ -734,12 +619,7 @@
       "averageScore" : 3.4,
       "niceScoreHistory" : [ 2.0 ],
       "assignedBudget" : 11.432476763258611,
-      "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 5
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
     } ]

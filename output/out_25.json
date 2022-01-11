@@ -14,12 +14,12 @@
         "productName" : "Doll",
         "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "pink"
@@ -37,12 +37,12 @@
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
@@ -60,12 +60,12 @@
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -83,22 +83,22 @@
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 4
+        "quantity" : 0
       }, {
         "productName" : "Doll",
         "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
@@ -118,12 +118,12 @@
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       }, {
         "productName" : "Handbag",
         "price" : 200.0,
         "category" : "Clothes",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "pink"
@@ -141,12 +141,12 @@
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -164,22 +164,22 @@
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Doll",
         "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
@@ -196,20 +196,20 @@
       "niceScoreHistory" : [ 2.0, 10.0, 8.0 ],
       "assignedBudget" : 289.3333333333333,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Chocolate",
+        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       }, {
         "productName" : "Handbag",
         "price" : 200.0,
         "category" : "Clothes",
-        "quantity" : 2
+        "quantity" : 0
       }, {
         "productName" : "Doll",
         "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "pink"
@@ -227,17 +227,17 @@
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 7
+        "quantity" : 0
       }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Chocolate",
+        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -255,27 +255,22 @@
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 7
+        "quantity" : 0
       }, {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 4
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
@@ -293,17 +288,17 @@
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 4
+        "quantity" : 0
       }, {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "white"
@@ -321,17 +316,17 @@
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 7
+        "quantity" : 0
       }, {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Chocolate",
+        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -348,15 +343,15 @@
       "niceScoreHistory" : [ 2.0, 10.0, 8.0, 8.0 ],
       "assignedBudget" : 130.37180106228877,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Chocolate",
+        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       }, {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "pink"
@@ -374,22 +369,17 @@
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 4
+        "quantity" : 0
       }, {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 4
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -404,25 +394,10 @@
       "niceScoreHistory" : [ 10.0, 5.0, 5.0, 7.0 ],
       "assignedBudget" : 88.0009657170449,
       "receivedGifts" : [ {
-        "productName" : "Monopoly",
-        "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 7
-      }, {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 4
-      }, {
-        "productName" : "Twilight",
-        "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 4
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
@@ -437,15 +412,10 @@
       "niceScoreHistory" : [ 8.0, 0.0 ],
       "assignedBudget" : 67.79333655239016,
       "receivedGifts" : [ {
-        "productName" : "Monopoly",
+        "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 7
-      }, {
-        "productName" : "Twilight",
-        "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 4
+        "category" : "Toys",
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "white"
@@ -460,20 +430,10 @@
       "niceScoreHistory" : [ 3.0, 5.0 ],
       "assignedBudget" : 73.44278126508932,
       "receivedGifts" : [ {
-        "productName" : "Monopoly",
+        "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 7
-      }, {
-        "productName" : "Doll",
-        "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 4
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -490,20 +450,10 @@
       "niceScoreHistory" : [ 2.0, 10.0, 8.0, 8.0 ],
       "assignedBudget" : 234.30927835051546,
       "receivedGifts" : [ {
-        "productName" : "Handbag",
-        "price" : 200.0,
-        "category" : "Clothes",
-        "quantity" : 2
-      }, {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Lego",
+        "price" : 30.0,
         "category" : "Toys",
-        "quantity" : 4
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "pink"
@@ -518,25 +468,10 @@
       "niceScoreHistory" : [ 10.0, 5.0, 5.0, 7.0 ],
       "assignedBudget" : 158.15876288659794,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 6
-      }, {
-        "productName" : "Headphones",
-        "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 7
-      }, {
-        "productName" : "Monopoly",
+        "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 7
-      }, {
-        "productName" : "Doll",
-        "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
@@ -550,22 +485,7 @@
       "averageScore" : 7.8,
       "niceScoreHistory" : [ 8.0, 0.0, 10.0 ],
       "assignedBudget" : 182.76123711340205,
-      "receivedGifts" : [ {
-        "productName" : "Monopoly",
-        "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 7
-      }, {
-        "productName" : "Twilight",
-        "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 4
-      }, {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 4
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 30.0,
       "elf" : "white"
     }, {
@@ -578,22 +498,7 @@
       "averageScore" : 8.666666666666668,
       "niceScoreHistory" : [ 3.0, 5.0, 9.0 ],
       "assignedBudget" : 203.06804123711342,
-      "receivedGifts" : [ {
-        "productName" : "Monopoly",
-        "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 7
-      }, {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 4
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 6
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
     }, {
@@ -606,22 +511,7 @@
       "averageScore" : 7.2,
       "niceScoreHistory" : [ 6.0 ],
       "assignedBudget" : 168.70268041237114,
-      "receivedGifts" : [ {
-        "productName" : "Monopoly",
-        "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 7
-      }, {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 4
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 6
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 20.0,
       "elf" : "pink"
     } ]

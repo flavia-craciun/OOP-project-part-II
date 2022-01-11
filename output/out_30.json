@@ -14,17 +14,17 @@
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 2
+        "quantity" : 0
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 8
+        "quantity" : 0
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 3
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "pink"
@@ -42,12 +42,12 @@
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 8
+        "quantity" : 0
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 3
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "yellow"
@@ -65,12 +65,12 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 1
+        "quantity" : 0
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 3
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 80.0,
       "elf" : "pink"
@@ -85,20 +85,20 @@
       "niceScoreHistory" : [ 10.0 ],
       "assignedBudget" : 383.7535014005602,
       "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 1
+        "quantity" : 0
       }, {
         "productName" : "Chocolate",
         "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Shoes",
         "price" : 70.0,
         "category" : "Clothes",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
@@ -115,30 +115,25 @@
       "niceScoreHistory" : [ 3.0 ],
       "assignedBudget" : 218.73949579831933,
       "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 1
+        "quantity" : 0
       }, {
         "productName" : "Chocolate",
         "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
         "category" : "Board Games",
-        "quantity" : 2
+        "quantity" : 0
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 8
-      }, {
-        "productName" : "Headphones",
-        "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 3
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "pink"
@@ -153,30 +148,25 @@
       "niceScoreHistory" : [ 5.0 ],
       "assignedBudget" : 383.7535014005602,
       "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 1
+        "quantity" : 0
       }, {
         "productName" : "Chocolate",
         "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 8
+        "quantity" : 0
       }, {
         "productName" : "Shoes",
         "price" : 70.0,
         "category" : "Clothes",
-        "quantity" : 2
-      }, {
-        "productName" : "Headphones",
-        "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 3
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "yellow"
@@ -191,25 +181,20 @@
       "niceScoreHistory" : [ 9.0 ],
       "assignedBudget" : 383.7535014005602,
       "receivedGifts" : [ {
-        "productName" : "Headphones",
-        "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 3
-      }, {
         "productName" : "Chocolate",
         "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       }, {
-        "productName" : "Shoes",
-        "price" : 70.0,
+        "productName" : "Handbag",
+        "price" : 200.0,
         "category" : "Clothes",
-        "quantity" : 2
+        "quantity" : 0
       }, {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 1
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 80.0,
       "elf" : "pink"
@@ -224,25 +209,15 @@
       "niceScoreHistory" : [ 10.0, 2.0 ],
       "assignedBudget" : 383.7535014005602,
       "receivedGifts" : [ {
-        "productName" : "Monopoly",
-        "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 2
-      }, {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 1
+        "quantity" : 0
       }, {
         "productName" : "Chocolate",
         "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 7
-      }, {
-        "productName" : "Shoes",
-        "price" : 70.0,
-        "category" : "Clothes",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
@@ -262,7 +237,7 @@
         "productName" : "Chocolate",
         "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "pink"
@@ -277,20 +252,20 @@
       "niceScoreHistory" : [ 5.0, 7.0 ],
       "assignedBudget" : 76.28140703517586,
       "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 1
+        "quantity" : 0
       }, {
         "productName" : "Chocolate",
         "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 8
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "yellow"
@@ -305,20 +280,15 @@
       "niceScoreHistory" : [ 9.0 ],
       "assignedBudget" : 76.28140703517586,
       "receivedGifts" : [ {
-        "productName" : "Monopoly",
+        "productName" : "Milk and Cookies",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 2
-      }, {
-        "productName" : "Chocolate",
-        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       }, {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 1
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 80.0,
       "elf" : "pink"
@@ -333,20 +303,15 @@
       "niceScoreHistory" : [ 10.0, 2.0, 8.0 ],
       "assignedBudget" : 76.28140703517586,
       "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 1
+        "quantity" : 0
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 8
-      }, {
-        "productName" : "Monopoly",
-        "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
@@ -363,20 +328,20 @@
       "niceScoreHistory" : [ 3.0, 1.0, 6.0 ],
       "assignedBudget" : 83.04401049256776,
       "receivedGifts" : [ {
-        "productName" : "Monopoly",
-        "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 2
-      }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 8
+        "quantity" : 0
       }, {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 1
+        "quantity" : 0
+      }, {
+        "productName" : "Milk and Cookies",
+        "price" : 30.0,
+        "category" : "Sweets",
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "pink"
@@ -394,17 +359,12 @@
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 8
+        "quantity" : 0
       }, {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
-      }, {
-        "productName" : "Chocolate",
-        "price" : 15.0,
+        "productName" : "Milk and Cookies",
+        "price" : 30.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "yellow"
@@ -419,20 +379,10 @@
       "niceScoreHistory" : [ 9.0 ],
       "assignedBudget" : 114.01923637423492,
       "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
-      }, {
-        "productName" : "Monopoly",
+        "productName" : "Milk and Cookies",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 2
-      }, {
-        "productName" : "Chocolate",
-        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 80.0,
       "elf" : "pink"
@@ -447,10 +397,15 @@
       "niceScoreHistory" : [ 10.0, 2.0, 8.0, 5.0 ],
       "assignedBudget" : 114.01923637423492,
       "receivedGifts" : [ {
-        "productName" : "Headphones",
-        "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 3
+        "productName" : "Bike",
+        "price" : 25.0,
+        "category" : "Toys",
+        "quantity" : 0
+      }, {
+        "productName" : "Milk and Cookies",
+        "price" : 30.0,
+        "category" : "Sweets",
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
@@ -465,10 +420,10 @@
       "niceScoreHistory" : [ 9.0 ],
       "assignedBudget" : 112.87904401049258,
       "receivedGifts" : [ {
-        "productName" : "Castle",
-        "price" : 15.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 8
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "pink"
@@ -482,17 +437,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 10.0 ],
       "assignedBudget" : 114.01923637423492,
-      "receivedGifts" : [ {
-        "productName" : "Monopoly",
-        "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 2
-      }, {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
     } ]
@@ -508,10 +453,10 @@
       "niceScoreHistory" : [ 3.0, 1.0, 6.0, 8.0 ],
       "assignedBudget" : 29.3425975414217,
       "receivedGifts" : [ {
-        "productName" : "Castle",
-        "price" : 15.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 8
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "pink"
@@ -526,10 +471,10 @@
       "niceScoreHistory" : [ 5.0, 7.0, 6.0 ],
       "assignedBudget" : 29.3425975414217,
       "receivedGifts" : [ {
-        "productName" : "Castle",
-        "price" : 15.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 8
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "yellow"
@@ -543,12 +488,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 9.0 ],
       "assignedBudget" : 29.3425975414217,
-      "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 80.0,
       "elf" : "pink"
     }, {
@@ -561,12 +501,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 10.0, 2.0, 8.0, 5.0, 7.0 ],
       "assignedBudget" : 29.3425975414217,
-      "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
     }, {
@@ -579,12 +514,7 @@
       "averageScore" : 6.966666666666667,
       "niceScoreHistory" : [ 9.0, 5.0 ],
       "assignedBudget" : 20.442009620523784,
-      "receivedGifts" : [ {
-        "productName" : "Castle",
-        "price" : 15.0,
-        "category" : "Toys",
-        "quantity" : 8
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 10.0,
       "elf" : "pink"
     }, {
@@ -597,12 +527,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 10.0, 1.0 ],
       "assignedBudget" : 29.3425975414217,
-      "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
     }, {
@@ -615,12 +540,7 @@
       "averageScore" : 5.4,
       "niceScoreHistory" : [ 3.0 ],
       "assignedBudget" : 15.84500267236772,
-      "receivedGifts" : [ {
-        "productName" : "Castle",
-        "price" : 15.0,
-        "category" : "Toys",
-        "quantity" : 8
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 80.0,
       "elf" : "pink"
     } ]
@@ -636,15 +556,10 @@
       "niceScoreHistory" : [ 5.0, 7.0, 6.0 ],
       "assignedBudget" : 50.150021431633085,
       "receivedGifts" : [ {
-        "productName" : "Monopoly",
+        "productName" : "Milk and Cookies",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 2
-      }, {
-        "productName" : "Castle",
-        "price" : 15.0,
-        "category" : "Toys",
-        "quantity" : 8
+        "category" : "Sweets",
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "yellow"
@@ -659,15 +574,10 @@
       "niceScoreHistory" : [ 10.0, 2.0, 8.0, 5.0, 7.0 ],
       "assignedBudget" : 50.150021431633085,
       "receivedGifts" : [ {
-        "productName" : "Monopoly",
+        "productName" : "Milk and Cookies",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 2
-      }, {
-        "productName" : "Castle",
-        "price" : 15.0,
-        "category" : "Toys",
-        "quantity" : 8
+        "category" : "Sweets",
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
@@ -681,12 +591,7 @@
       "averageScore" : 3.4833333333333334,
       "niceScoreHistory" : [ 9.0, 5.0, 0.0 ],
       "assignedBudget" : 17.46892413201886,
-      "receivedGifts" : [ {
-        "productName" : "Castle",
-        "price" : 15.0,
-        "category" : "Toys",
-        "quantity" : 8
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 10.0,
       "elf" : "pink"
     }, {
@@ -699,12 +604,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 10.0, 1.0, 6.0 ],
       "assignedBudget" : 50.150021431633085,
-      "receivedGifts" : [ {
-        "productName" : "Monopoly",
-        "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 2
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
     }, {
@@ -717,12 +617,7 @@
       "averageScore" : 5.4,
       "niceScoreHistory" : [ 3.0 ],
       "assignedBudget" : 27.08101157308187,
-      "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 80.0,
       "elf" : "pink"
     } ]
@@ -738,10 +633,10 @@
       "niceScoreHistory" : [ 5.0, 7.0, 6.0 ],
       "assignedBudget" : 108.57757461683248,
       "receivedGifts" : [ {
-        "productName" : "Headphones",
-        "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 3
+        "productName" : "Milk and Cookies",
+        "price" : 30.0,
+        "category" : "Sweets",
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "yellow"
@@ -756,25 +651,10 @@
       "niceScoreHistory" : [ 10.0, 2.0, 8.0, 5.0, 7.0, 2.0 ],
       "assignedBudget" : 92.2909384243076,
       "receivedGifts" : [ {
-        "productName" : "Monopoly",
+        "productName" : "Milk and Cookies",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 2
-      }, {
-        "productName" : "Castle",
-        "price" : 15.0,
-        "category" : "Toys",
-        "quantity" : 8
-      }, {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
-      }, {
-        "productName" : "Chocolate",
-        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
@@ -788,12 +668,7 @@
       "averageScore" : 3.4833333333333334,
       "niceScoreHistory" : [ 9.0, 5.0, 0.0 ],
       "assignedBudget" : 37.82118849152998,
-      "receivedGifts" : [ {
-        "productName" : "Castle",
-        "price" : 15.0,
-        "category" : "Toys",
-        "quantity" : 8
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 10.0,
       "elf" : "pink"
     }, {
@@ -806,17 +681,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 10.0, 1.0, 6.0, 3.0 ],
       "assignedBudget" : 108.57757461683248,
-      "receivedGifts" : [ {
-        "productName" : "Monopoly",
-        "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 2
-      }, {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 0.0,
       "elf" : "yellow"
     }, {
@@ -829,17 +694,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 3.0, 10.0 ],
       "assignedBudget" : 108.57757461683248,
-      "receivedGifts" : [ {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 1
-      }, {
-        "productName" : "Castle",
-        "price" : 15.0,
-        "category" : "Toys",
-        "quantity" : 8
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 80.0,
       "elf" : "pink"
     }, {
@@ -852,12 +707,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 10.0 ],
       "assignedBudget" : 108.57757461683248,
-      "receivedGifts" : [ {
-        "productName" : "Chocolate",
-        "price" : 15.0,
-        "category" : "Sweets",
-        "quantity" : 7
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 20.0,
       "elf" : "pink"
     }, {
@@ -870,17 +720,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 10.0 ],
       "assignedBudget" : 108.57757461683248,
-      "receivedGifts" : [ {
-        "productName" : "Castle",
-        "price" : 15.0,
-        "category" : "Toys",
-        "quantity" : 8
-      }, {
-        "productName" : "Shoes",
-        "price" : 70.0,
-        "category" : "Clothes",
-        "quantity" : 2
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
     } ]

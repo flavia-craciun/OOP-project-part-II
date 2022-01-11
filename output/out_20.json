@@ -14,12 +14,12 @@
         "productName" : "Bike",
         "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "yellow"
@@ -37,17 +37,17 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 9
+        "quantity" : 2
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       }, {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "black"
@@ -67,12 +67,12 @@
         "productName" : "Bike",
         "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "yellow"
@@ -90,17 +90,17 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 9
+        "quantity" : 2
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       }, {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "black"
@@ -118,22 +118,22 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 9
+        "quantity" : 2
       }, {
         "productName" : "Bike",
         "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 0
       }, {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "black"
@@ -153,12 +153,12 @@
         "productName" : "Bike",
         "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 4
+        "quantity" : 0
       }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Chocolate",
+        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 1
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "yellow"
@@ -173,20 +173,20 @@
       "niceScoreHistory" : [ 3.0, 0.0, 7.0 ],
       "assignedBudget" : 249.84766584766584,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Chocolate",
+        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 1
       }, {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 9
+        "quantity" : 2
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "black"
@@ -204,22 +204,17 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 9
+        "quantity" : 2
       }, {
-        "productName" : "Bike",
-        "price" : 25.0,
-        "category" : "Toys",
-        "quantity" : 4
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Chocolate",
+        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 1
       }, {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "black"
@@ -239,17 +234,12 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       }, {
-        "productName" : "Bike",
-        "price" : 25.0,
-        "category" : "Toys",
-        "quantity" : 4
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Chocolate",
+        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 1
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "yellow"
@@ -264,20 +254,20 @@
       "niceScoreHistory" : [ 3.0, 0.0, 7.0, 10.0 ],
       "assignedBudget" : 126.72849915682968,
       "receivedGifts" : [ {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Chocolate",
+        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 5
+        "quantity" : 1
       }, {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 9
+        "quantity" : 2
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "black"
@@ -295,22 +285,12 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 9
+        "quantity" : 2
       }, {
-        "productName" : "Bike",
-        "price" : 25.0,
-        "category" : "Toys",
-        "quantity" : 4
-      }, {
-        "productName" : "Gummy Bears",
-        "price" : 10.0,
+        "productName" : "Chocolate",
+        "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 5
-      }, {
-        "productName" : "Diary of a Wimpy Kid",
-        "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 7
+        "quantity" : 1
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "black"
@@ -324,12 +304,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 8.0 ],
       "assignedBudget" : 126.72849915682968,
-      "receivedGifts" : [ {
-        "productName" : "Bike",
-        "price" : 25.0,
-        "category" : "Toys",
-        "quantity" : 4
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 70.0,
       "elf" : "pink"
     } ]

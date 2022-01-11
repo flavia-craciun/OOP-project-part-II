@@ -14,17 +14,17 @@
         "productName" : "Doll",
         "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       }, {
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 6
+        "quantity" : 0
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -42,7 +42,7 @@
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "black"
@@ -60,7 +60,7 @@
         "productName" : "Doll",
         "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "white"
@@ -78,7 +78,7 @@
         "productName" : "Twilight",
         "price" : 30.0,
         "category" : "Books",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
@@ -98,22 +98,22 @@
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
         "category" : "Technology",
-        "quantity" : 7
+        "quantity" : 3
       }, {
         "productName" : "Doll",
         "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       }, {
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -128,10 +128,10 @@
       "niceScoreHistory" : [ 5.0, 7.0 ],
       "assignedBudget" : 153.54659248956884,
       "receivedGifts" : [ {
-        "productName" : "Twilight",
-        "price" : 30.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "black"
@@ -149,7 +149,7 @@
         "productName" : "Doll",
         "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "white"
@@ -167,17 +167,17 @@
         "productName" : "Doll",
         "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       }, {
-        "productName" : "Twilight",
-        "price" : 30.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
@@ -197,17 +197,17 @@
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 6
+        "quantity" : 0
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Doll",
         "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -222,10 +222,10 @@
       "niceScoreHistory" : [ 5.0, 7.0, 4.0 ],
       "assignedBudget" : 101.31875201029271,
       "receivedGifts" : [ {
-        "productName" : "Twilight",
-        "price" : 30.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "black"
@@ -240,10 +240,10 @@
       "niceScoreHistory" : [ 4.0, 5.0 ],
       "assignedBudget" : 50.15278224509489,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Castle",
+        "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "white"
@@ -258,20 +258,20 @@
       "niceScoreHistory" : [ 3.0, 4.0, 6.0 ],
       "assignedBudget" : 74.63814731424895,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Castle",
+        "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       }, {
-        "productName" : "Twilight",
-        "price" : 30.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
@@ -299,20 +299,20 @@
       "niceScoreHistory" : [ 10.0 ],
       "assignedBudget" : 101.31875201029271,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       }, {
-        "productName" : "Twilight",
-        "price" : 30.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 2
+        "quantity" : 0
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "pink"
@@ -329,25 +329,25 @@
       "niceScoreHistory" : [ 8.0, 9.0, 6.0 ],
       "assignedBudget" : 97.73799837266071,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       }, {
-        "productName" : "Twilight",
-        "price" : 30.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 2
+        "quantity" : 0
       }, {
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 6
+        "quantity" : 0
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
         "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -362,15 +362,15 @@
       "niceScoreHistory" : [ 5.0, 7.0, 4.0 ],
       "assignedBudget" : 102.52237591537836,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       }, {
-        "productName" : "Twilight",
-        "price" : 30.0,
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "black"
@@ -385,10 +385,10 @@
       "niceScoreHistory" : [ 4.0, 5.0 ],
       "assignedBudget" : 50.74857607811229,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "white"
@@ -403,20 +403,15 @@
       "niceScoreHistory" : [ 3.0, 4.0, 6.0, 4.0 ],
       "assignedBudget" : 74.07241659886087,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Bike",
+        "price" : 25.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       }, {
-        "productName" : "Bag of Candy",
-        "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 7
-      }, {
-        "productName" : "Twilight",
+        "productName" : "Milk and Cookies",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 2
+        "category" : "Sweets",
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
@@ -431,15 +426,15 @@
       "niceScoreHistory" : [ 5.0 ],
       "assignedBudget" : 97.39625711960944,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 6
-      }, {
-        "productName" : "Twilight",
+        "productName" : "Lego",
         "price" : 30.0,
+        "category" : "Toys",
+        "quantity" : 0
+      }, {
+        "productName" : "Harry Potter",
+        "price" : 35.0,
         "category" : "Books",
-        "quantity" : 2
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "white"
@@ -454,20 +449,15 @@
       "niceScoreHistory" : [ 10.0 ],
       "assignedBudget" : 102.52237591537836,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 6
-      }, {
-        "productName" : "Twilight",
+        "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 2
+        "category" : "Toys",
+        "quantity" : 0
       }, {
-        "productName" : "Bag of Candy",
-        "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 7
+        "productName" : "Harry Potter",
+        "price" : 35.0,
+        "category" : "Books",
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "pink"
@@ -484,25 +474,15 @@
       "niceScoreHistory" : [ 8.0, 9.0, 6.0, 6.0 ],
       "assignedBudget" : 101.00570951121014,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 6
-      }, {
-        "productName" : "Twilight",
+        "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 2
+        "category" : "Toys",
+        "quantity" : 0
       }, {
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 6
-      }, {
-        "productName" : "Bag of Candy",
-        "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -517,20 +497,15 @@
       "niceScoreHistory" : [ 5.0, 7.0, 4.0 ],
       "assignedBudget" : 85.31402311655758,
       "receivedGifts" : [ {
-        "productName" : "Twilight",
-        "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 2
-      }, {
         "productName" : "Uno",
         "price" : 10.0,
         "category" : "Board Games",
-        "quantity" : 6
+        "quantity" : 0
       }, {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Lego",
+        "price" : 30.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "black"
@@ -545,10 +520,10 @@
       "niceScoreHistory" : [ 4.0, 5.0, 4.0 ],
       "assignedBudget" : 54.463862971730954,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
+        "productName" : "Lego",
+        "price" : 30.0,
         "category" : "Toys",
-        "quantity" : 6
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 10.0,
       "elf" : "white"
@@ -563,20 +538,10 @@
       "niceScoreHistory" : [ 3.0, 4.0, 6.0, 4.0, 3.0 ],
       "assignedBudget" : 77.69669962400779,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 6
-      }, {
-        "productName" : "Bag of Candy",
-        "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 7
-      }, {
-        "productName" : "Twilight",
+        "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 2
+        "category" : "Toys",
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
@@ -591,15 +556,10 @@
       "niceScoreHistory" : [ 5.0, 8.0 ],
       "assignedBudget" : 114.25985238824677,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 6
-      }, {
-        "productName" : "Twilight",
+        "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 2
+        "category" : "Toys",
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "white"
@@ -614,25 +574,10 @@
       "niceScoreHistory" : [ 10.0 ],
       "assignedBudget" : 114.25985238824677,
       "receivedGifts" : [ {
-        "productName" : "Twilight",
+        "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 2
-      }, {
-        "productName" : "Doll",
-        "price" : 10.0,
         "category" : "Toys",
-        "quantity" : 6
-      }, {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 6
-      }, {
-        "productName" : "Bag of Candy",
-        "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "pink"
@@ -649,25 +594,10 @@
       "niceScoreHistory" : [ 8.0, 9.0, 6.0, 6.0, 6.0 ],
       "assignedBudget" : 118.61326809653359,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 6
-      }, {
-        "productName" : "Twilight",
-        "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 2
-      }, {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 6
-      }, {
-        "productName" : "Bag of Candy",
-        "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 7
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology",
+        "quantity" : 3
       } ],
       "niceScoreBonus" : 30.0,
       "elf" : "black"
@@ -682,20 +612,10 @@
       "niceScoreHistory" : [ 5.0, 7.0, 4.0 ],
       "assignedBudget" : 104.27540052442515,
       "receivedGifts" : [ {
-        "productName" : "Twilight",
-        "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 2
-      }, {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 6
-      }, {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 6
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology",
+        "quantity" : 3
       } ],
       "niceScoreBonus" : 40.0,
       "elf" : "black"
@@ -709,12 +629,7 @@
       "averageScore" : 4.95,
       "niceScoreHistory" : [ 4.0, 5.0, 4.0, 5.0 ],
       "assignedBudget" : 69.12900436552292,
-      "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 6
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 10.0,
       "elf" : "white"
     }, {
@@ -727,27 +642,7 @@
       "averageScore" : 9.228571428571428,
       "niceScoreHistory" : [ 3.0, 4.0, 6.0, 4.0, 3.0, 9.0 ],
       "assignedBudget" : 128.88120294409177,
-      "receivedGifts" : [ {
-        "productName" : "Twilight",
-        "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 2
-      }, {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 6
-      }, {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 6
-      }, {
-        "productName" : "Bag of Candy",
-        "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 7
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 70.0,
       "elf" : "black"
     }, {
@@ -760,22 +655,7 @@
       "averageScore" : 7.6,
       "niceScoreHistory" : [ 5.0, 8.0, 1.0 ],
       "assignedBudget" : 106.1374612480756,
-      "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 6
-      }, {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 6
-      }, {
-        "productName" : "Twilight",
-        "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 2
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 90.0,
       "elf" : "white"
     }, {
@@ -789,25 +669,10 @@
       "niceScoreHistory" : [ 10.0 ],
       "assignedBudget" : 139.65455427378367,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 6
-      }, {
-        "productName" : "Twilight",
-        "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 2
-      }, {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 6
-      }, {
-        "productName" : "Bag of Candy",
-        "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 7
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology",
+        "quantity" : 3
       } ],
       "niceScoreBonus" : 90.0,
       "elf" : "pink"
@@ -834,12 +699,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 9.0 ],
       "assignedBudget" : 139.65455427378367,
-      "receivedGifts" : [ {
-        "productName" : "Uno",
-        "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 6
-      } ],
+      "receivedGifts" : [ ],
       "niceScoreBonus" : 70.0,
       "elf" : "white"
     } ]

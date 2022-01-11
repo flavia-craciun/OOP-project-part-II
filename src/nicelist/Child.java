@@ -1,5 +1,6 @@
 package nicelist;
 
+import common.Constants;
 import enums.Category;
 import enums.Cities;
 import enums.ElvesType;
@@ -22,7 +23,7 @@ public abstract class Child {
     private Double niceScoreBonus;
     private ElvesType elf;
 
-    public Child(final int id, int age, final String lastName, final String firstName,
+    public Child(final int id, final int age, final String lastName, final String firstName,
                  final Cities city, final List<Category> giftsPreferences, final ElvesType elf,
                  final List<Double> niceScoreHistory, final Double niceScoreBonus) {
         this.id = id;
@@ -114,27 +115,27 @@ public abstract class Child {
         this.receivedGifts = receivedGifts;
     }
 
-    public Double getNiceScoreBonus() {
+    public final Double getNiceScoreBonus() {
         return niceScoreBonus;
     }
 
-    public void setNiceScoreBonus(Double niceScoreBonus) {
+    public final void setNiceScoreBonus(final Double niceScoreBonus) {
         this.niceScoreBonus = niceScoreBonus;
     }
 
-    public ElvesType getElf() {
+    public final ElvesType getElf() {
         return elf;
     }
 
-    public void setElf(ElvesType elf) {
+    public final void setElf(final ElvesType elf) {
         this.elf = elf;
     }
 
     public abstract void calculateAverageScore();
 
-    public void roundAverageScore() {
-        if (averageScore > 10) {
-            averageScore = 10.0;
+    public final void roundAverageScore() {
+        if (averageScore > Constants.MAX_AVERAGE_SCORE) {
+            averageScore = Constants.MAX_AVERAGE_SCORE;
         }
     }
 

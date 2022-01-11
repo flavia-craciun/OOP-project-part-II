@@ -14,17 +14,17 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 6
+        "quantity" : 2
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 9
+        "quantity" : 1
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "white"
@@ -42,7 +42,7 @@
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 9
+        "quantity" : 1
       } ],
       "niceScoreBonus" : 20.0,
       "elf" : "white"
@@ -62,17 +62,17 @@
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 6
+        "quantity" : 2
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 9
+        "quantity" : 1
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "white"
@@ -90,12 +90,12 @@
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 9
+        "quantity" : 1
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 20.0,
       "elf" : "white"
@@ -115,22 +115,22 @@
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 9
+        "quantity" : 1
       }, {
         "productName" : "Chocolate",
         "price" : 15.0,
         "category" : "Sweets",
-        "quantity" : 1
+        "quantity" : 0
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       }, {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 6
+        "quantity" : 2
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "white"
@@ -148,17 +148,12 @@
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 9
-      }, {
-        "productName" : "Chocolate",
-        "price" : 15.0,
-        "category" : "Sweets",
         "quantity" : 1
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 20.0,
       "elf" : "white"
@@ -178,22 +173,17 @@
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
         "category" : "Books",
-        "quantity" : 6
+        "quantity" : 2
       }, {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 9
+        "quantity" : 1
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 7
-      }, {
-        "productName" : "Chocolate",
-        "price" : 15.0,
-        "category" : "Sweets",
-        "quantity" : 1
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 100.0,
       "elf" : "white"
@@ -211,17 +201,12 @@
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
-        "quantity" : 9
-      }, {
-        "productName" : "Chocolate",
-        "price" : 15.0,
-        "category" : "Sweets",
         "quantity" : 1
       }, {
         "productName" : "Castle",
         "price" : 15.0,
         "category" : "Toys",
-        "quantity" : 7
+        "quantity" : 0
       } ],
       "niceScoreBonus" : 20.0,
       "elf" : "white"
