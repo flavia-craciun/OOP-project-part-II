@@ -33,6 +33,7 @@ public final class YearlyRound extends AnnualChildren {
             // Update the nice score history and gifts preferences based on children's ids
             childrenUpdate(niceChild, change);
             niceChild.calculateAverageScore();
+            niceChild.roundAverageScore();
             getChildren().add(niceChild);
         }
     }

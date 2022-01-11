@@ -25,7 +25,9 @@
         "price" : 35.0,
         "category" : "Books",
         "quantity" : 5
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -53,7 +55,9 @@
         "price" : 35.0,
         "category" : "Books",
         "quantity" : 5
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   } ]
 }

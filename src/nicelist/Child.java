@@ -2,7 +2,7 @@ package nicelist;
 
 import enums.Category;
 import enums.Cities;
-import input.ChildInput;
+import enums.ElvesType;
 import gifts.Gifts;
 
 import java.util.LinkedList;
@@ -14,20 +14,26 @@ public abstract class Child {
     private String firstName;
     private Cities city;
     private int age;
-    private List<Category> giftsPreferences = new LinkedList<>();
+    private List<Category> giftsPreferences;
     private Double averageScore;
-    private List<Double> niceScoreHistory = new LinkedList<>();
+    private List<Double> niceScoreHistory;
     private Double assignedBudget;
     private List<Gifts> receivedGifts = new LinkedList<>();
+    private Double niceScoreBonus;
+    private ElvesType elf;
 
-    public Child(final ChildInput child) {
-        this.id = child.getId();
-        this.age = child.getAge();
-        this.firstName = child.getFirstName();
-        this.lastName = child.getLastName();
-        this.city = child.getCity();
-        this.giftsPreferences.addAll(child.getGiftsPreferences());
-        niceScoreHistory.add(child.getNiceScore());
+    public Child(final int id, int age, final String lastName, final String firstName,
+                 final Cities city, final List<Category> giftsPreferences, final ElvesType elf,
+                 final List<Double> niceScoreHistory, final Double niceScoreBonus) {
+        this.id = id;
+        this.age = age;
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.city = city;
+        this.giftsPreferences = giftsPreferences;
+        this.elf = elf;
+        this.niceScoreHistory = niceScoreHistory;
+        this.niceScoreBonus = niceScoreBonus;
     }
 
     public Child(final Child child) {
@@ -36,8 +42,12 @@ public abstract class Child {
         this.firstName = child.getFirstName();
         this.lastName = child.getLastName();
         this.city = child.getCity();
+        this.giftsPreferences = new LinkedList<>();
         this.giftsPreferences.addAll(child.getGiftsPreferences());
+        this.elf = child.getElf();
+        this.niceScoreHistory = new LinkedList<>();
         niceScoreHistory.addAll(child.getNiceScoreHistory());
+        this.niceScoreBonus = child.getNiceScoreBonus();
     }
 
     public final int getId() {
@@ -104,5 +114,28 @@ public abstract class Child {
         this.receivedGifts = receivedGifts;
     }
 
+    public Double getNiceScoreBonus() {
+        return niceScoreBonus;
+    }
+
+    public void setNiceScoreBonus(Double niceScoreBonus) {
+        this.niceScoreBonus = niceScoreBonus;
+    }
+
+    public ElvesType getElf() {
+        return elf;
+    }
+
+    public void setElf(ElvesType elf) {
+        this.elf = elf;
+    }
+
     public abstract void calculateAverageScore();
+
+    public void roundAverageScore() {
+        if (averageScore > 10) {
+            averageScore = 10.0;
+        }
+    }
+
 }

@@ -20,7 +20,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Ionescu",
@@ -46,7 +48,9 @@
         "price" : 100.0,
         "category" : "Technology",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -69,7 +73,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Ionescu",
@@ -95,7 +101,9 @@
         "price" : 100.0,
         "category" : "Technology",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -123,7 +131,9 @@
         "price" : 100.0,
         "category" : "Technology",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ ]

@@ -25,7 +25,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -53,7 +55,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -74,7 +78,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 4,
       "lastName" : "Stoica",
@@ -95,7 +101,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -123,7 +131,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -144,7 +154,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 4,
       "lastName" : "Stoica",
@@ -170,7 +182,9 @@
         "price" : 30.0,
         "category" : "Toys",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   } ]
 }

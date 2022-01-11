@@ -20,7 +20,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Pop",
@@ -41,7 +43,9 @@
         "price" : 30.0,
         "category" : "Books",
         "quantity" : 8
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 2,
       "lastName" : "Pop",
@@ -62,7 +66,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -80,7 +86,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Pop",
@@ -101,7 +109,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 2,
       "lastName" : "Pop",
@@ -122,7 +132,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 4
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -155,7 +167,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 4
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 2,
       "lastName" : "Pop",
@@ -186,7 +200,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 4
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -214,7 +230,9 @@
         "price" : 20.0,
         "category" : "Sweets",
         "quantity" : 5
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 2,
       "lastName" : "Pop",
@@ -245,7 +263,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 4
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   } ]
 }

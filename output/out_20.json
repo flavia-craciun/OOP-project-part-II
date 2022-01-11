@@ -7,9 +7,9 @@
       "city" : "Braila",
       "age" : 12,
       "giftsPreferences" : [ "Toys", "Sweets" ],
-      "averageScore" : 9.0,
+      "averageScore" : 10.0,
       "niceScoreHistory" : [ 9.0 ],
-      "assignedBudget" : 669.0,
+      "assignedBudget" : 568.1528662420383,
       "receivedGifts" : [ {
         "productName" : "Bike",
         "price" : 25.0,
@@ -20,7 +20,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 5
-      } ]
+      } ],
+      "niceScoreBonus" : 30.0,
+      "elf" : "yellow"
     }, {
       "id" : 1,
       "lastName" : "Popescu",
@@ -28,9 +30,9 @@
       "city" : "Timisoara",
       "age" : 14,
       "giftsPreferences" : [ "Board Games", "Technology", "Sweets", "Books" ],
-      "averageScore" : 3.0,
+      "averageScore" : 5.7,
       "niceScoreHistory" : [ 3.0 ],
-      "assignedBudget" : 223.0,
+      "assignedBudget" : 323.8471337579618,
       "receivedGifts" : [ {
         "productName" : "Uno",
         "price" : 10.0,
@@ -46,7 +48,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 90.0,
+      "elf" : "black"
     } ]
   }, {
     "children" : [ {
@@ -56,9 +60,9 @@
       "city" : "Braila",
       "age" : 13,
       "giftsPreferences" : [ "Toys", "Sweets" ],
-      "averageScore" : 5.666666666666667,
+      "averageScore" : 7.366666666666667,
       "niceScoreHistory" : [ 9.0, 4.0 ],
-      "assignedBudget" : 303.28,
+      "assignedBudget" : 341.0588235294118,
       "receivedGifts" : [ {
         "productName" : "Bike",
         "price" : 25.0,
@@ -69,7 +73,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 5
-      } ]
+      } ],
+      "niceScoreBonus" : 30.0,
+      "elf" : "yellow"
     }, {
       "id" : 1,
       "lastName" : "Popescu",
@@ -77,9 +83,9 @@
       "city" : "Timisoara",
       "age" : 15,
       "giftsPreferences" : [ "Board Games", "Sweets", "Technology", "Books" ],
-      "averageScore" : 1.0,
+      "averageScore" : 1.9,
       "niceScoreHistory" : [ 3.0, 0.0 ],
-      "assignedBudget" : 53.519999999999996,
+      "assignedBudget" : 87.96539792387543,
       "receivedGifts" : [ {
         "productName" : "Uno",
         "price" : 10.0,
@@ -95,7 +101,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 90.0,
+      "elf" : "black"
     }, {
       "id" : 2,
       "lastName" : "Popa",
@@ -105,7 +113,7 @@
       "giftsPreferences" : [ "Board Games", "Toys", "Sweets", "Books" ],
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 9.0 ],
-      "assignedBudget" : 535.1999999999999,
+      "assignedBudget" : 462.97577854671283,
       "receivedGifts" : [ {
         "productName" : "Uno",
         "price" : 10.0,
@@ -126,7 +134,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 90.0,
+      "elf" : "black"
     } ]
   }, {
     "children" : [ {
@@ -136,9 +146,9 @@
       "city" : "Braila",
       "age" : 14,
       "giftsPreferences" : [ "Toys", "Sweets" ],
-      "averageScore" : 7.333333333333333,
+      "averageScore" : 9.533333333333333,
       "niceScoreHistory" : [ 9.0, 4.0, 9.0 ],
-      "assignedBudget" : 338.3448275862069,
+      "assignedBudget" : 313.4054054054054,
       "receivedGifts" : [ {
         "productName" : "Bike",
         "price" : 25.0,
@@ -149,7 +159,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 5
-      } ]
+      } ],
+      "niceScoreBonus" : 30.0,
+      "elf" : "yellow"
     }, {
       "id" : 1,
       "lastName" : "Popescu",
@@ -157,9 +169,9 @@
       "city" : "Timisoara",
       "age" : 16,
       "giftsPreferences" : [ "Sweets", "Books", "Board Games", "Technology" ],
-      "averageScore" : 4.0,
+      "averageScore" : 7.6,
       "niceScoreHistory" : [ 3.0, 0.0, 7.0 ],
-      "assignedBudget" : 184.55172413793105,
+      "assignedBudget" : 249.84766584766584,
       "receivedGifts" : [ {
         "productName" : "Gummy Bears",
         "price" : 10.0,
@@ -175,7 +187,9 @@
         "price" : 10.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 90.0,
+      "elf" : "black"
     }, {
       "id" : 2,
       "lastName" : "Popa",
@@ -183,9 +197,9 @@
       "city" : "Brasov",
       "age" : 5,
       "giftsPreferences" : [ "Board Games", "Toys", "Sweets", "Books" ],
-      "averageScore" : 8.0,
+      "averageScore" : 10.0,
       "niceScoreHistory" : [ 9.0, 7.0 ],
-      "assignedBudget" : 369.1034482758621,
+      "assignedBudget" : 328.74692874692875,
       "receivedGifts" : [ {
         "productName" : "Uno",
         "price" : 10.0,
@@ -206,7 +220,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 90.0,
+      "elf" : "black"
     } ]
   }, {
     "children" : [ {
@@ -216,9 +232,9 @@
       "city" : "Braila",
       "age" : 15,
       "giftsPreferences" : [ "Books", "Toys", "Sweets" ],
-      "averageScore" : 7.333333333333333,
+      "averageScore" : 9.533333333333333,
       "niceScoreHistory" : [ 9.0, 4.0, 9.0 ],
-      "assignedBudget" : 132.47596153846155,
+      "assignedBudget" : 120.81450252951097,
       "receivedGifts" : [ {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
@@ -234,7 +250,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 5
-      } ]
+      } ],
+      "niceScoreBonus" : 30.0,
+      "elf" : "yellow"
     }, {
       "id" : 1,
       "lastName" : "Popescu",
@@ -242,9 +260,9 @@
       "city" : "Timisoara",
       "age" : 17,
       "giftsPreferences" : [ "Sweets", "Books", "Board Games", "Technology" ],
-      "averageScore" : 6.4,
+      "averageScore" : 10.0,
       "niceScoreHistory" : [ 3.0, 0.0, 7.0, 10.0 ],
-      "assignedBudget" : 115.61538461538463,
+      "assignedBudget" : 126.72849915682968,
       "receivedGifts" : [ {
         "productName" : "Gummy Bears",
         "price" : 10.0,
@@ -260,7 +278,9 @@
         "price" : 10.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 90.0,
+      "elf" : "black"
     }, {
       "id" : 2,
       "lastName" : "Popa",
@@ -268,9 +288,9 @@
       "city" : "Brasov",
       "age" : 6,
       "giftsPreferences" : [ "Board Games", "Toys", "Sweets", "Books" ],
-      "averageScore" : 6.0,
+      "averageScore" : 10.0,
       "niceScoreHistory" : [ 9.0, 7.0, 2.0 ],
-      "assignedBudget" : 108.38942307692308,
+      "assignedBudget" : 126.72849915682968,
       "receivedGifts" : [ {
         "productName" : "Uno",
         "price" : 10.0,
@@ -291,7 +311,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 90.0,
+      "elf" : "black"
     }, {
       "id" : 3,
       "lastName" : "Popa",
@@ -299,15 +321,17 @@
       "city" : "Brasov",
       "age" : 8,
       "giftsPreferences" : [ "Toys" ],
-      "averageScore" : 8.0,
+      "averageScore" : 10.0,
       "niceScoreHistory" : [ 8.0 ],
-      "assignedBudget" : 144.51923076923077,
+      "assignedBudget" : 126.72849915682968,
       "receivedGifts" : [ {
         "productName" : "Bike",
         "price" : 25.0,
         "category" : "Toys",
         "quantity" : 4
-      } ]
+      } ],
+      "niceScoreBonus" : 70.0,
+      "elf" : "pink"
     } ]
   } ]
 }

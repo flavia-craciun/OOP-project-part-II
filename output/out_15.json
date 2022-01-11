@@ -7,9 +7,9 @@
       "city" : "Constanta",
       "age" : 5,
       "giftsPreferences" : [ "Books", "Clothes", "Toys" ],
-      "averageScore" : 8.0,
+      "averageScore" : 10.0,
       "niceScoreHistory" : [ 8.0 ],
-      "assignedBudget" : 184.44444444444446,
+      "assignedBudget" : 207.5,
       "receivedGifts" : [ {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
@@ -25,7 +25,9 @@
         "price" : 15.0,
         "category" : "Toys",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 100.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -35,13 +37,15 @@
       "giftsPreferences" : [ "Clothes" ],
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 5.0 ],
-      "assignedBudget" : 230.55555555555557,
+      "assignedBudget" : 207.5,
       "receivedGifts" : [ {
         "productName" : "Dress",
         "price" : 45.0,
         "category" : "Clothes",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 20.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -51,9 +55,9 @@
       "city" : "Constanta",
       "age" : 6,
       "giftsPreferences" : [ "Toys", "Books", "Clothes" ],
-      "averageScore" : 8.0,
+      "averageScore" : 10.0,
       "niceScoreHistory" : [ 8.0 ],
-      "assignedBudget" : 261.3333333333333,
+      "assignedBudget" : 294.0,
       "receivedGifts" : [ {
         "productName" : "Castle",
         "price" : 15.0,
@@ -69,7 +73,9 @@
         "price" : 45.0,
         "category" : "Clothes",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 100.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -79,7 +85,7 @@
       "giftsPreferences" : [ "Clothes", "Toys" ],
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 5.0 ],
-      "assignedBudget" : 326.66666666666663,
+      "assignedBudget" : 294.0,
       "receivedGifts" : [ {
         "productName" : "Dress",
         "price" : 45.0,
@@ -90,7 +96,9 @@
         "price" : 15.0,
         "category" : "Toys",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 20.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -100,9 +108,9 @@
       "city" : "Constanta",
       "age" : 7,
       "giftsPreferences" : [ "Clothes", "Sweets", "Toys", "Books" ],
-      "averageScore" : 8.0,
+      "averageScore" : 10.0,
       "niceScoreHistory" : [ 8.0 ],
-      "assignedBudget" : 257.77777777777777,
+      "assignedBudget" : 290.0,
       "receivedGifts" : [ {
         "productName" : "Dress",
         "price" : 45.0,
@@ -123,7 +131,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 100.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -133,7 +143,7 @@
       "giftsPreferences" : [ "Clothes", "Sweets", "Toys" ],
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 5.0, 7.0 ],
-      "assignedBudget" : 322.22222222222223,
+      "assignedBudget" : 290.0,
       "receivedGifts" : [ {
         "productName" : "Dress",
         "price" : 45.0,
@@ -149,7 +159,9 @@
         "price" : 15.0,
         "category" : "Toys",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 20.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -159,9 +171,9 @@
       "city" : "Constanta",
       "age" : 8,
       "giftsPreferences" : [ "Books", "Clothes", "Toys", "Sweets" ],
-      "averageScore" : 5.5,
+      "averageScore" : 10.0,
       "niceScoreHistory" : [ 8.0, 3.0 ],
-      "assignedBudget" : 147.25806451612902,
+      "assignedBudget" : 207.5,
       "receivedGifts" : [ {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
@@ -182,7 +194,9 @@
         "price" : 15.0,
         "category" : "Sweets",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 100.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -192,7 +206,7 @@
       "giftsPreferences" : [ "Clothes", "Sweets", "Toys" ],
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 5.0, 7.0, 6.0 ],
-      "assignedBudget" : 267.741935483871,
+      "assignedBudget" : 207.5,
       "receivedGifts" : [ {
         "productName" : "Dress",
         "price" : 45.0,
@@ -208,7 +222,9 @@
         "price" : 15.0,
         "category" : "Toys",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 20.0,
+      "elf" : "white"
     } ]
   } ]
 }

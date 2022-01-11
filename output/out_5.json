@@ -10,7 +10,9 @@
       "averageScore" : 4.0,
       "niceScoreHistory" : [ 4.0 ],
       "assignedBudget" : 0.0,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -21,7 +23,9 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 3.0 ],
       "assignedBudget" : 0.0,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -34,7 +38,9 @@
       "averageScore" : 6.0,
       "niceScoreHistory" : [ 4.0, 7.0 ],
       "assignedBudget" : 0.0,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -45,7 +51,9 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 3.0, 5.0 ],
       "assignedBudget" : 0.0,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -58,7 +66,9 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 3.0, 5.0, 2.0 ],
       "assignedBudget" : 0.0,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   } ]
 }

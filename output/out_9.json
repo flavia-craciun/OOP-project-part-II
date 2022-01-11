@@ -20,7 +20,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -31,7 +33,9 @@
       "averageScore" : 5.0,
       "niceScoreHistory" : [ 5.0 ],
       "assignedBudget" : 60.0,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 2,
       "lastName" : "Pop",
@@ -57,7 +61,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -80,7 +86,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -91,7 +99,9 @@
       "averageScore" : 6.0,
       "niceScoreHistory" : [ 5.0, 7.0 ],
       "assignedBudget" : 68.57142857142857,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 2,
       "lastName" : "Pop",
@@ -117,7 +127,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -140,7 +152,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -151,7 +165,9 @@
       "averageScore" : 5.0,
       "niceScoreHistory" : [ 5.0, 7.0, 3.0 ],
       "assignedBudget" : 67.28971962616824,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 2,
       "lastName" : "Pop",
@@ -172,7 +188,9 @@
         "price" : 45.0,
         "category" : "Clothes",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   } ]
 }

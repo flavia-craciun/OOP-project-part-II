@@ -25,7 +25,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 4
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Cantemir",
@@ -46,7 +48,9 @@
         "price" : 100.0,
         "category" : "Technology",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -74,7 +78,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 4
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Cantemir",
@@ -95,7 +101,9 @@
         "price" : 100.0,
         "category" : "Technology",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -123,7 +131,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 4
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Cantemir",
@@ -144,7 +154,9 @@
         "price" : 100.0,
         "category" : "Technology",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   } ]
 }

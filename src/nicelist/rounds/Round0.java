@@ -26,6 +26,7 @@ public final class Round0 extends AnnualChildren {
     public void checkIfYoungAdult(final Child niceChild) {
         if (!(niceChild instanceof YoungAdult)) {
             niceChild.calculateAverageScore();
+            niceChild.roundAverageScore();
             getChildren().add(niceChild);
         }
     }

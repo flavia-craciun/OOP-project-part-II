@@ -30,7 +30,9 @@
         "price" : 100.0,
         "category" : "Technology",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -63,7 +65,9 @@
         "price" : 100.0,
         "category" : "Technology",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -96,7 +100,9 @@
         "price" : 100.0,
         "category" : "Technology",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   } ]
 }

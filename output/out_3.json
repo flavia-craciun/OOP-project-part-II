@@ -25,7 +25,9 @@
         "price" : 10.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Pop",
@@ -36,7 +38,9 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 6.0 ],
       "assignedBudget" : 107.42857142857142,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 2,
       "lastName" : "Mihalache",
@@ -67,7 +71,9 @@
         "price" : 15.0,
         "category" : "Sweets",
         "quantity" : 5
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 3,
       "lastName" : "Cantemir",
@@ -98,7 +104,9 @@
         "price" : 10.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -126,7 +134,9 @@
         "price" : 10.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Pop",
@@ -137,7 +147,9 @@
       "averageScore" : 7.0,
       "niceScoreHistory" : [ 6.0, 8.0 ],
       "assignedBudget" : 80.57142857142858,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 2,
       "lastName" : "Mihalache",
@@ -168,7 +180,9 @@
         "price" : 30.0,
         "category" : "Books",
         "quantity" : 5
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 3,
       "lastName" : "Cantemir",
@@ -199,7 +213,9 @@
         "price" : 10.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -227,7 +243,9 @@
         "price" : 10.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Pop",
@@ -238,7 +256,9 @@
       "averageScore" : 6.333333333333333,
       "niceScoreHistory" : [ 6.0, 8.0, 5.0 ],
       "assignedBudget" : 126.44247787610621,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 3,
       "lastName" : "Cantemir",
@@ -269,7 +289,9 @@
         "price" : 10.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -282,7 +304,9 @@
       "averageScore" : 5.75,
       "niceScoreHistory" : [ 6.0, 8.0, 5.0, 4.0 ],
       "assignedBudget" : 188.00000000000003,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 3,
       "lastName" : "Cantemir",
@@ -313,7 +337,9 @@
         "price" : 10.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   } ]
 }

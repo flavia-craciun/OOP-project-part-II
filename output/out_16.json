@@ -25,7 +25,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 2
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -46,7 +48,9 @@
         "price" : 45.0,
         "category" : "Clothes",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     } ]
   }, {
     "children" : [ {
@@ -59,7 +63,9 @@
       "averageScore" : 1.0,
       "niceScoreHistory" : [ 2.0, 0.0 ],
       "assignedBudget" : 4.444444444444445,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -75,7 +81,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 2,
       "lastName" : "Mihalache",
@@ -96,7 +104,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 2
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 3,
       "lastName" : "Stoica",
@@ -117,7 +127,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 2
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     } ]
   }, {
     "children" : [ {
@@ -140,7 +152,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 2
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -156,7 +170,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 2,
       "lastName" : "Mihalache",
@@ -172,7 +188,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 3,
       "lastName" : "Stoica",
@@ -193,7 +211,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     } ]
   }, {
     "children" : [ {
@@ -216,7 +236,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 2
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -232,7 +254,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 2,
       "lastName" : "Mihalache",
@@ -248,7 +272,9 @@
         "price" : 10.0,
         "category" : "Sweets",
         "quantity" : 2
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 3,
       "lastName" : "Stoica",
@@ -269,7 +295,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     } ]
   }, {
     "children" : [ {
@@ -287,7 +315,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -303,7 +333,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 2,
       "lastName" : "Mihalache",
@@ -319,7 +351,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     }, {
       "id" : 3,
       "lastName" : "Stoica",
@@ -340,7 +374,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "pink"
     } ]
   } ]
 }

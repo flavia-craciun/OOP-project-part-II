@@ -20,7 +20,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -46,7 +48,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -69,7 +73,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 1
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -95,7 +101,9 @@
         "price" : 25.0,
         "category" : "Books",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -108,7 +116,9 @@
       "averageScore" : 7.333333333333333,
       "niceScoreHistory" : [ 10.0, 2.0, 10.0 ],
       "assignedBudget" : 0.0,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -119,7 +129,9 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 6.0, 0.0, 7.0 ],
       "assignedBudget" : 0.0,
-      "receivedGifts" : [ ]
+      "receivedGifts" : [ ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   } ]
 }

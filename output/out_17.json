@@ -15,7 +15,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "yellow"
     }, {
       "id" : 1,
       "lastName" : "Stoica",
@@ -36,7 +38,9 @@
         "price" : 30.0,
         "category" : "Books",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "yellow"
     } ]
   }, {
     "children" : [ {
@@ -54,7 +58,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "yellow"
     }, {
       "id" : 1,
       "lastName" : "Stoica",
@@ -75,7 +81,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "yellow"
     } ]
   }, {
     "children" : [ {
@@ -98,7 +106,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "yellow"
     }, {
       "id" : 1,
       "lastName" : "Stoica",
@@ -114,7 +124,9 @@
         "price" : 5.0,
         "category" : "Toys",
         "quantity" : 7
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "yellow"
     } ]
   }, {
     "children" : [ {
@@ -142,7 +154,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 9
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "yellow"
     } ]
   } ]
 }

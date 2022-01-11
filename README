@@ -1,5 +1,5 @@
 
-IMPORTANT
+TO-DO
 
-- implementarea scorului bonus de cumințenie utilizând design pattern-ul Builder
 - implementarea 4 design pattern-uri diferite (Factory, Builder, Strategy + inca unul)
+- output shouldn't show the quantity of the gifts

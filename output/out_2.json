@@ -20,7 +20,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 2,
       "lastName" : "Stoica",
@@ -41,7 +43,9 @@
         "price" : 70.0,
         "category" : "Clothes",
         "quantity" : 4
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -62,7 +66,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -85,7 +91,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 2,
       "lastName" : "Stoica",
@@ -106,7 +114,9 @@
         "price" : 70.0,
         "category" : "Clothes",
         "quantity" : 4
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -127,7 +137,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -150,7 +162,9 @@
         "price" : 70.0,
         "category" : "Clothes",
         "quantity" : 4
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -171,7 +185,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   }, {
     "children" : [ {
@@ -194,7 +210,9 @@
         "price" : 70.0,
         "category" : "Clothes",
         "quantity" : 4
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -215,7 +233,9 @@
         "price" : 30.0,
         "category" : "Board Games",
         "quantity" : 6
-      } ]
+      } ],
+      "niceScoreBonus" : 0.0,
+      "elf" : "white"
     } ]
   } ]
 }
