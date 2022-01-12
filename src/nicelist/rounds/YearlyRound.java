@@ -1,13 +1,8 @@
 package nicelist.rounds;
 
 import enums.Category;
-import enums.Cities;
-import enums.ElvesType;
 import gifts.DeliverPresents;
 import gifts.assignment.AssignmentStrategy;
-import gifts.assignment.IdStrategy;
-import gifts.elves.Elf;
-import gifts.elves.SantaWorkshop;
 import input.AnnualChange;
 import input.ChildUpdate;
 import gifts.Gifts;
@@ -28,15 +23,14 @@ public final class YearlyRound extends AnnualChildren {
         }
     }
 
-    public void calculateAge(final int age, final Child child, final AnnualChange change) {
+    private void calculateAge(final int age, final Child child, final AnnualChange change) {
         Child niceChild = AgeRangeFactory.chooseRange(getAgeRange(age), child);
         niceChild.setAge(niceChild.getAge() + 1);
         checkIfYoungAdult(niceChild, change);
     }
 
-    public void checkIfYoungAdult(final Child niceChild, final AnnualChange change) {
+    private void checkIfYoungAdult(final Child niceChild, final AnnualChange change) {
         if (!(niceChild instanceof YoungAdult)) {
-            // Update the nice score history and gifts preferences based on children's ids
             childrenUpdate(niceChild, change);
             niceChild.calculateAverageScore();
             niceChild.roundAverageScore();
@@ -77,25 +71,20 @@ public final class YearlyRound extends AnnualChildren {
 
         Double santaBudget = input.getAnnualChanges().get(year).getNewSantaBudget();
         Double budgetUnit = DeliverPresents.calculateBudgetUnit(santaBudget, getChildren());
-        for (Child child : getChildren()) {
-            child.setAssignedBudget(child.getAverageScore() * budgetUnit);
-            Elf elf = chooseElf(child.getElf(), child, input.getInitialData().getSantaGiftsList());
-            SantaWorkshop workshop = new SantaWorkshop();
-            if (!child.getElf().equals(ElvesType.YELLOW)) {
-                workshop.work(elf);
-            }
-        }
-        AssignmentStrategy strategy = chooseStrategy(input.getAnnualChanges().get(year).getStrategy(),
-                input.getInitialData().getSantaGiftsList(), getChildren());
-                strategy.assignGifts();
+        assignBudget(budgetUnit, input);
+
+        assignGifts(chooseStrategy(input.getAnnualChanges().get(year).getStrategy(),
+                input.getInitialData().getSantaGiftsList(), getChildren()));
+    }
+
+    public void assignGifts(final AssignmentStrategy assignmentStrategy) {
+        assignmentStrategy.assignGifts();
     }
 
     private void updateSantaGiftList(final int year, final InputData input) {
         List<Gifts> santaGifts = new LinkedList<>();
         santaGifts.addAll(input.getInitialData().getSantaGiftsList());
         santaGifts.addAll(input.getAnnualChanges().get(year).getNewGifts());
-        List<Gifts> santaGiftsAux = new LinkedList<>();
-        santaGiftsAux.addAll(santaGifts);
         input.getInitialData().setSantaGiftsList(santaGifts);
     }
 }

@@ -1,19 +1,15 @@
 package gifts.elves;
 
-import common.Constants;
 import nicelist.Child;
 
-public final class PinkElf implements Elf{
-    Child child;
+public final class PinkElf implements SantaWorkshop {
+    private Elf elf;
 
-    public PinkElf(final Child niceChild) {
-        child = niceChild;
+    public PinkElf(final Elf elf) {
+        this.elf = elf;
     }
-
     @Override
-    public void doJob() {
-        Double budget = child.getAssignedBudget();
-        budget += budget * 30 / 100;
-        child.setAssignedBudget(budget);
+    public Child doJob() {
+        return elf.pinkElfJob();
     }
 }

@@ -1,15 +1,21 @@
 package nicelist.rounds;
 
 import common.Constants;
-import enums.Cities;
 import enums.CityStrategyEnum;
 import enums.ElvesType;
+
 import gifts.Gifts;
 import gifts.assignment.AssignmentStrategy;
 import gifts.assignment.IdStrategy;
 import gifts.assignment.NiceScoreCityStrategy;
 import gifts.assignment.NiceScoreStrategy;
-import gifts.elves.*;
+import gifts.elves.Santa;
+import gifts.elves.BlackElf;
+import gifts.elves.Elf;
+import gifts.elves.PinkElf;
+import gifts.elves.WhiteElf;
+
+import input.InputData;
 import nicelist.Child;
 import nicelist.ages.AgeRangeFactory;
 
@@ -43,12 +49,23 @@ public abstract class AnnualChildren {
         return AgeRangeFactory.AgeRange.YoungAdult;
     }
 
-    public static Elf chooseElf(final ElvesType elf, Child child, List<Gifts> giftsList) {
+    public final void assignBudget(final Double budgetUnit, final InputData input) {
+        for (Child child : getChildren()) {
+            child.setAssignedBudget(child.getAverageScore() * budgetUnit);
+            if (!child.getElf().equals(ElvesType.YELLOW)) {
+                child = doElvesJob(child.getElf(), child,
+                        input.getInitialData().getSantaGiftsList());
+            }
+        }
+    }
+
+    private static Child doElvesJob(final ElvesType elf, final Child child,
+                                    final List<Gifts> giftsList) {
+        Santa santa = new Santa();
         switch (elf) {
-            case YELLOW: return new YellowElf(child, giftsList);
-            case PINK: return new PinkElf(child);
-            case BLACK: return new BlackElf(child);
-            default: return new WhiteElf(child);
+            case PINK: return santa.talkToElves(new PinkElf(new Elf(child, giftsList)));
+            case BLACK: return santa.talkToElves(new BlackElf(new Elf(child, giftsList)));
+            default: return santa.talkToElves(new WhiteElf(new Elf(child, giftsList)));
         }
     }
 

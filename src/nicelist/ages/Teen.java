@@ -1,5 +1,6 @@
 package nicelist.ages;
 
+import common.Constants;
 import enums.Category;
 import enums.Cities;
 import enums.ElvesType;
@@ -62,7 +63,7 @@ public final class Teen extends Child  {
             totalNiceScore += niceScore * index;
         }
         Double averageScore = totalNiceScore / indexSum;
-        averageScore += averageScore * getNiceScoreBonus() / 100;
+        averageScore += averageScore * getNiceScoreBonus() / Constants.PERCENTAGE;
         setAverageScore(averageScore);
     }
 }

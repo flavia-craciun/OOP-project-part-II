@@ -2,15 +2,14 @@ package gifts.elves;
 
 import nicelist.Child;
 
-public final class WhiteElf implements Elf{
-    Child child;
+public final class WhiteElf implements SantaWorkshop {
+    private Elf elf;
 
-    public WhiteElf(final Child niceChild) {
-        child = niceChild;
+    public WhiteElf(final Elf elf) {
+        this.elf = elf;
     }
-
     @Override
-    public void doJob() {
-        return;
+    public Child doJob() {
+        return elf.whiteElfJob();
     }
 }

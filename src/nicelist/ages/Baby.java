@@ -56,7 +56,7 @@ public final class Baby extends Child {
     @Override
     public void calculateAverageScore() {
         Double averageScore = Constants.BABY_AVERAGE_SCORE
-                + Constants.BABY_AVERAGE_SCORE * super.getNiceScoreBonus() / 100;
+                + Constants.BABY_AVERAGE_SCORE * super.getNiceScoreBonus() / Constants.PERCENTAGE;
         super.setAverageScore(averageScore);
     }
 }

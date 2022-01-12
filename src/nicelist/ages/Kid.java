@@ -1,5 +1,6 @@
 package nicelist.ages;
 
+import common.Constants;
 import enums.Category;
 import enums.Cities;
 import enums.ElvesType;
@@ -57,7 +58,7 @@ public final class Kid extends Child {
         Double totalNiceScore = getNiceScoreHistory().stream()
                 .mapToDouble(Double::doubleValue).sum();
         Double averageScore = totalNiceScore / (double) getNiceScoreHistory().size();
-        averageScore += averageScore * getNiceScoreBonus() / 100;
+        averageScore += averageScore * getNiceScoreBonus() / Constants.PERCENTAGE;
         setAverageScore(averageScore);
     }
 }

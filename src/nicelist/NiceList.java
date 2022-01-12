@@ -25,9 +25,11 @@ public final class NiceList {
         AnnualChildren niceChildrenList = new Round0();
         ((Round0) niceChildrenList).makeNiceList(input.getInitialData().getChildren());
 
-        // Assign budget for each child
-        if (!niceChildrenList.getChildren().isEmpty())
+        // Calculate average score, assign budget for each child,
+        // add nice score bonus and complete the elf's task if due
+        if (!niceChildrenList.getChildren().isEmpty()) {
             ((Round0) niceChildrenList).receiveGifts(input);
+        }
 
         //  Add the list of nice children to the nice list
         annualChildren.add(niceChildrenList);
@@ -37,7 +39,7 @@ public final class NiceList {
             AnnualChildren newNiceChildrenList = new YearlyRound();
             AnnualChange change = input.getAnnualChanges().get(year);
 
-            // Update the already existing children's ages, nice score history
+            // Update the already existing children's ages, nice score history, assigned elf
             // and gifts preferences
             ((YearlyRound) newNiceChildrenList).makeNiceList(niceChildrenList
                     .getChildren(), change);
@@ -48,9 +50,11 @@ public final class NiceList {
                     get(year).getNewChildren());
             newNiceChildrenList.getChildren().addAll(newChildrenList.getChildren());
 
-            // Assign the budget to each child and give out the gifts
-            if (!newNiceChildrenList.getChildren().isEmpty())
+            // Assign the budget to each child and assign a strategy
+            // for giving out the gifts
+            if (!newNiceChildrenList.getChildren().isEmpty()) {
                 ((YearlyRound) newNiceChildrenList).receiveGifts(year, input);
+            }
 
             annualChildren.add(newNiceChildrenList);
             niceChildrenList = newNiceChildrenList;
