@@ -9,20 +9,16 @@
       "giftsPreferences" : [ "Clothes", "Toys", "Sweets" ],
       "averageScore" : 2.8,
       "niceScoreHistory" : [ 2.0 ],
-      "assignedBudget" : 112.5185185185185,
+      "assignedBudget" : 146.27407407407406,
       "receivedGifts" : [ {
         "productName" : "Doll",
         "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "category" : "Toys"
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 40.0,
-      "elf" : "pink"
+        "category" : "Sweets"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -36,16 +32,12 @@
       "receivedGifts" : [ {
         "productName" : "Headphones",
         "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 0
+        "category" : "Technology"
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "category" : "Sweets"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Mihalache",
@@ -55,20 +47,16 @@
       "giftsPreferences" : [ "Board Games", "Technology" ],
       "averageScore" : 5.2,
       "niceScoreHistory" : [ 4.0 ],
-      "assignedBudget" : 208.96296296296296,
+      "assignedBudget" : 146.27407407407406,
       "receivedGifts" : [ {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 30.0,
-      "elf" : "black"
+        "category" : "Technology"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Stoica",
@@ -82,26 +70,20 @@
       "receivedGifts" : [ {
         "productName" : "Twilight",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 0
+        "category" : "Books"
       }, {
         "productName" : "Doll",
         "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "category" : "Toys"
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
+        "category" : "Sweets"
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "category" : "Technology"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -113,20 +95,16 @@
       "giftsPreferences" : [ "Sweets", "Clothes", "Toys" ],
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 2.0, 10.0 ],
-      "assignedBudget" : 219.8237885462555,
+      "assignedBudget" : 153.87665198237886,
       "receivedGifts" : [ {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
+        "category" : "Sweets"
       }, {
-        "productName" : "Handbag",
-        "price" : 200.0,
-        "category" : "Clothes",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 40.0,
-      "elf" : "pink"
+        "productName" : "Doll",
+        "price" : 10.0,
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Mihalache",
@@ -140,16 +118,12 @@
       "receivedGifts" : [ {
         "productName" : "Headphones",
         "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 0
+        "category" : "Technology"
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 30.0,
-      "elf" : "black"
+        "category" : "Sweets"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Stoica",
@@ -163,26 +137,20 @@
       "receivedGifts" : [ {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Doll",
         "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "category" : "Toys"
       }, {
         "productName" : "Headphones",
         "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 0
+        "category" : "Technology"
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "category" : "Sweets"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -194,25 +162,16 @@
       "giftsPreferences" : [ "Sweets", "Clothes", "Toys" ],
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 2.0, 10.0, 8.0 ],
-      "assignedBudget" : 289.3333333333333,
+      "assignedBudget" : 202.5333333333333,
       "receivedGifts" : [ {
         "productName" : "Chocolate",
         "price" : 15.0,
-        "category" : "Sweets",
-        "quantity" : 0
+        "category" : "Sweets"
       }, {
-        "productName" : "Handbag",
-        "price" : 200.0,
-        "category" : "Clothes",
-        "quantity" : 0
-      }, {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 40.0,
-      "elf" : "pink"
+        "productName" : "Bike",
+        "price" : 25.0,
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Mihalache",
@@ -222,25 +181,20 @@
       "giftsPreferences" : [ "Technology", "Sweets", "Board Games" ],
       "averageScore" : 6.933333333333334,
       "niceScoreHistory" : [ 4.0, 6.0 ],
-      "assignedBudget" : 200.60444444444445,
+      "assignedBudget" : 260.7857777777778,
       "receivedGifts" : [ {
         "productName" : "Headphones",
         "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 0
+        "category" : "Technology"
       }, {
         "productName" : "Chocolate",
         "price" : 15.0,
-        "category" : "Sweets",
-        "quantity" : 0
+        "category" : "Sweets"
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 30.0,
-      "elf" : "black"
+        "category" : "Board Games"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Stoica",
@@ -254,26 +208,20 @@
       "receivedGifts" : [ {
         "productName" : "Headphones",
         "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 0
+        "category" : "Technology"
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Bike",
         "price" : 25.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "category" : "Toys"
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "category" : "Books"
+      } ]
     }, {
       "id" : 4,
       "lastName" : "Ionescu",
@@ -287,21 +235,16 @@
       "receivedGifts" : [ {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 0
+        "category" : "Books"
       }, {
-        "productName" : "Bike",
-        "price" : 25.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 30.0,
-      "elf" : "white"
+        "productName" : "Teddy Bear",
+        "price" : 5.0,
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 5,
       "lastName" : "Cantemir",
@@ -311,25 +254,20 @@
       "giftsPreferences" : [ "Board Games", "Clothes", "Toys", "Sweets" ],
       "averageScore" : 3.9,
       "niceScoreHistory" : [ 3.0 ],
-      "assignedBudget" : 112.84,
+      "assignedBudget" : 78.988,
       "receivedGifts" : [ {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Bike",
         "price" : 25.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "category" : "Toys"
       }, {
         "productName" : "Chocolate",
         "price" : 15.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 30.0,
-      "elf" : "black"
+        "category" : "Sweets"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -345,16 +283,12 @@
       "receivedGifts" : [ {
         "productName" : "Chocolate",
         "price" : 15.0,
-        "category" : "Sweets",
-        "quantity" : 0
+        "category" : "Sweets"
       }, {
         "productName" : "Bike",
         "price" : 25.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 40.0,
-      "elf" : "pink"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Mihalache",
@@ -364,25 +298,20 @@
       "giftsPreferences" : [ "Board Games", "Books", "Toys", "Sweets", "Technology" ],
       "averageScore" : 6.933333333333334,
       "niceScoreHistory" : [ 4.0, 6.0 ],
-      "assignedBudget" : 90.39111540318687,
+      "assignedBudget" : 117.50845002414293,
       "receivedGifts" : [ {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 0
+        "category" : "Books"
       }, {
         "productName" : "Bike",
         "price" : 25.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 30.0,
-      "elf" : "black"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Stoica",
@@ -392,15 +321,12 @@
       "giftsPreferences" : [ "Clothes", "Technology", "Board Games", "Toys", "Books", "Sweets" ],
       "averageScore" : 6.75,
       "niceScoreHistory" : [ 10.0, 5.0, 5.0, 7.0 ],
-      "assignedBudget" : 88.0009657170449,
+      "assignedBudget" : 114.40125543215838,
       "receivedGifts" : [ {
         "productName" : "Bike",
         "price" : 25.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 4,
       "lastName" : "Ionescu",
@@ -414,11 +340,8 @@
       "receivedGifts" : [ {
         "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 30.0,
-      "elf" : "white"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 5,
       "lastName" : "Cantemir",
@@ -428,15 +351,12 @@
       "giftsPreferences" : [ "Board Games", "Clothes", "Toys", "Sweets" ],
       "averageScore" : 5.633333333333333,
       "niceScoreHistory" : [ 3.0, 5.0 ],
-      "assignedBudget" : 73.44278126508932,
+      "assignedBudget" : 95.47561564461611,
       "receivedGifts" : [ {
         "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 30.0,
-      "elf" : "black"
+        "category" : "Toys"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -448,15 +368,16 @@
       "giftsPreferences" : [ "Clothes", "Toys", "Technology", "Sweets" ],
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 2.0, 10.0, 8.0, 8.0 ],
-      "assignedBudget" : 234.30927835051546,
+      "assignedBudget" : 304.6020618556701,
       "receivedGifts" : [ {
+        "productName" : "Handbag",
+        "price" : 200.0,
+        "category" : "Clothes"
+      }, {
         "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 40.0,
-      "elf" : "pink"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Stoica",
@@ -466,15 +387,12 @@
       "giftsPreferences" : [ "Clothes", "Sweets", "Technology", "Board Games", "Toys", "Books" ],
       "averageScore" : 6.75,
       "niceScoreHistory" : [ 10.0, 5.0, 5.0, 7.0 ],
-      "assignedBudget" : 158.15876288659794,
+      "assignedBudget" : 205.60639175257734,
       "receivedGifts" : [ {
-        "productName" : "Lego",
-        "price" : 30.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "productName" : "Handbag",
+        "price" : 200.0,
+        "category" : "Clothes"
+      } ]
     }, {
       "id" : 4,
       "lastName" : "Ionescu",
@@ -485,9 +403,11 @@
       "averageScore" : 7.8,
       "niceScoreHistory" : [ 8.0, 0.0, 10.0 ],
       "assignedBudget" : 182.76123711340205,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 30.0,
-      "elf" : "white"
+      "receivedGifts" : [ {
+        "productName" : "Lego",
+        "price" : 30.0,
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 5,
       "lastName" : "Cantemir",
@@ -497,10 +417,8 @@
       "giftsPreferences" : [ "Board Games", "Clothes", "Toys", "Sweets" ],
       "averageScore" : 8.666666666666668,
       "niceScoreHistory" : [ 3.0, 5.0, 9.0 ],
-      "assignedBudget" : 203.06804123711342,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 30.0,
-      "elf" : "black"
+      "assignedBudget" : 142.14762886597939,
+      "receivedGifts" : [ ]
     }, {
       "id" : 6,
       "lastName" : "Popa",
@@ -510,10 +428,8 @@
       "giftsPreferences" : [ "Board Games", "Toys", "Sweets" ],
       "averageScore" : 7.2,
       "niceScoreHistory" : [ 6.0 ],
-      "assignedBudget" : 168.70268041237114,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 20.0,
-      "elf" : "pink"
+      "assignedBudget" : 219.31348453608248,
+      "receivedGifts" : [ ]
     } ]
   } ]
 }

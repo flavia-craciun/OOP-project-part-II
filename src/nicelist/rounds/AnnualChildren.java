@@ -1,6 +1,15 @@
 package nicelist.rounds;
 
 import common.Constants;
+import enums.Cities;
+import enums.CityStrategyEnum;
+import enums.ElvesType;
+import gifts.Gifts;
+import gifts.assignment.AssignmentStrategy;
+import gifts.assignment.IdStrategy;
+import gifts.assignment.NiceScoreCityStrategy;
+import gifts.assignment.NiceScoreStrategy;
+import gifts.elves.*;
 import nicelist.Child;
 import nicelist.ages.AgeRangeFactory;
 
@@ -32,5 +41,25 @@ public abstract class AnnualChildren {
             return AgeRangeFactory.AgeRange.Teen;
         }
         return AgeRangeFactory.AgeRange.YoungAdult;
+    }
+
+    public static Elf chooseElf(final ElvesType elf, Child child, List<Gifts> giftsList) {
+        switch (elf) {
+            case YELLOW: return new YellowElf(child, giftsList);
+            case PINK: return new PinkElf(child);
+            case BLACK: return new BlackElf(child);
+            default: return new WhiteElf(child);
+        }
+    }
+
+    public static AssignmentStrategy chooseStrategy(final CityStrategyEnum strategy,
+                                                    final List<Gifts> giftsList,
+                                                    final List<Child> childrenList) {
+        switch (strategy) {
+            case NICE_SCORE: return new NiceScoreStrategy(childrenList, giftsList);
+            case NICE_SCORE_CITY: return new NiceScoreCityStrategy(childrenList,
+                    giftsList);
+            default: return new IdStrategy(childrenList, giftsList);
+        }
     }
 }

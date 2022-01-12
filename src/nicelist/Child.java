@@ -1,5 +1,7 @@
 package nicelist;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import common.Constants;
 import enums.Category;
 import enums.Cities;
@@ -115,18 +117,22 @@ public abstract class Child {
         this.receivedGifts = receivedGifts;
     }
 
+    @JsonIgnore
     public final Double getNiceScoreBonus() {
         return niceScoreBonus;
     }
 
+    @JsonProperty
     public final void setNiceScoreBonus(final Double niceScoreBonus) {
         this.niceScoreBonus = niceScoreBonus;
     }
 
+    @JsonIgnore
     public final ElvesType getElf() {
         return elf;
     }
 
+    @JsonProperty
     public final void setElf(final ElvesType elf) {
         this.elf = elf;
     }

@@ -9,7 +9,7 @@ public class AgeRangeFactory {
         }
 
         public static Child chooseRange(final AgeRange childAgeRange, final ChildInput child) {
-            if (child.getNiceScoreBonus() != 0) {
+            if (child.getNiceScoreBonus() != 0.0) {
                 switch (childAgeRange) {
                     case Baby:
                         return new Baby.Builder(child)
@@ -43,7 +43,7 @@ public class AgeRangeFactory {
         }
 
         public static Child chooseRange(final AgeRange childAgeRange, final Child child) {
-            switch (childAgeRange) {
+        switch (childAgeRange) {
                 case Baby: return new Baby(child);
                 case Kid: return new Kid(child);
                 case Teen: return new Teen(child);

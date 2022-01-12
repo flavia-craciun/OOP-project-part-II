@@ -26,7 +26,8 @@ public final class NiceList {
         ((Round0) niceChildrenList).makeNiceList(input.getInitialData().getChildren());
 
         // Assign budget for each child
-        ((Round0) niceChildrenList).receiveGifts(input);
+        if (!niceChildrenList.getChildren().isEmpty())
+            ((Round0) niceChildrenList).receiveGifts(input);
 
         //  Add the list of nice children to the nice list
         annualChildren.add(niceChildrenList);
@@ -48,7 +49,8 @@ public final class NiceList {
             newNiceChildrenList.getChildren().addAll(newChildrenList.getChildren());
 
             // Assign the budget to each child and give out the gifts
-            ((YearlyRound) newNiceChildrenList).receiveGifts(year, input);
+            if (!newNiceChildrenList.getChildren().isEmpty())
+                ((YearlyRound) newNiceChildrenList).receiveGifts(year, input);
 
             annualChildren.add(newNiceChildrenList);
             niceChildrenList = newNiceChildrenList;

@@ -13,16 +13,12 @@
       "receivedGifts" : [ {
         "productName" : "Puzzle",
         "price" : 50.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Ionescu",
@@ -36,16 +32,12 @@
       "receivedGifts" : [ {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "category" : "Toys"
       }, {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 1
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Clothes"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -61,11 +53,8 @@
       "receivedGifts" : [ {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Ionescu",
@@ -77,18 +66,14 @@
       "niceScoreHistory" : [ 7.0, 1.0 ],
       "assignedBudget" : 94.94999999999999,
       "receivedGifts" : [ {
-        "productName" : "Teddy Bear",
-        "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "productName" : "Doll",
+        "price" : 10.0,
+        "category" : "Toys"
       }, {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 1
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Clothes"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Popescu",
@@ -100,13 +85,14 @@
       "niceScoreHistory" : [ 7.0 ],
       "assignedBudget" : 221.54999999999998,
       "receivedGifts" : [ {
-        "productName" : "Doll",
-        "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "productName" : "Teddy Bear",
+        "price" : 5.0,
+        "category" : "Toys"
+      }, {
+        "productName" : "Harry Potter",
+        "price" : 35.0,
+        "category" : "Books"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -120,13 +106,14 @@
       "niceScoreHistory" : [ 4.0, 3.0, 9.0 ],
       "assignedBudget" : 324.6153846153846,
       "receivedGifts" : [ {
+        "productName" : "Harry Potter",
+        "price" : 35.0,
+        "category" : "Books"
+      }, {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 1
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Clothes"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Ionescu",
@@ -140,11 +127,8 @@
       "receivedGifts" : [ {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 1
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Clothes"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Popescu",
@@ -155,9 +139,11 @@
       "averageScore" : 7.0,
       "niceScoreHistory" : [ 7.0 ],
       "assignedBudget" : 227.23076923076923,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ {
+        "productName" : "Harry Potter",
+        "price" : 35.0,
+        "category" : "Books"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -171,13 +157,14 @@
       "niceScoreHistory" : [ 4.0, 3.0, 9.0, 6.0 ],
       "assignedBudget" : 186.65625,
       "receivedGifts" : [ {
+        "productName" : "Harry Potter",
+        "price" : 35.0,
+        "category" : "Books"
+      }, {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 1
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Clothes"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Ionescu",
@@ -191,11 +178,8 @@
       "receivedGifts" : [ {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 1
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Clothes"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Popescu",
@@ -206,9 +190,7 @@
       "averageScore" : 4.333333333333333,
       "niceScoreHistory" : [ 7.0, 3.0 ],
       "assignedBudget" : 147.0625,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     }, {
       "id" : 3,
       "lastName" : "Cantemir",
@@ -219,9 +201,11 @@
       "averageScore" : 9.0,
       "niceScoreHistory" : [ 9.0 ],
       "assignedBudget" : 305.4375,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ {
+        "productName" : "Harry Potter",
+        "price" : 35.0,
+        "category" : "Books"
+      } ]
     } ]
   } ]
 }

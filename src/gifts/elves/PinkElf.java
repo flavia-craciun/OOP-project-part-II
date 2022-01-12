@@ -13,6 +13,7 @@ public final class PinkElf implements Elf{
     @Override
     public void doJob() {
         Double budget = child.getAssignedBudget();
-        child.setAssignedBudget(budget + budget * Constants.ELF_PERCENTAGE);
+        budget += budget * 30 / 100;
+        child.setAssignedBudget(budget);
     }
 }

@@ -22,6 +22,14 @@ public final class InitialData {
         return santaGiftsList;
     }
 
+    public void setSantaGiftsList(List<Gifts> santaGiftsList) {
+        this.santaGiftsList = santaGiftsList;
+    }
+
+    public void setSantaCitiesList(List<Cities> santaCitiesList) {
+        this.santaCitiesList = santaCitiesList;
+    }
+
     public List<Cities> getSantaCitiesList() {
         return santaCitiesList;
     }

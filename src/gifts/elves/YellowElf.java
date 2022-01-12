@@ -21,7 +21,7 @@ public final class YellowElf implements Elf{
             List<Gifts> giftsFromCategory =
                     DeliverPresents.getGiftsFromCategory(child.getGiftsPreferences().get(0),
                     santaGiftsList);
-            if (!giftsFromCategory.isEmpty() && giftsFromCategory.get(0).getQuantity() != 0) {
+            if (!giftsFromCategory.isEmpty() && giftsFromCategory.get(0).getQuantity() > 0) {
                 child.getReceivedGifts().add(giftsFromCategory.get(0));
                 giftsFromCategory.get(0).setQuantity(giftsFromCategory.get(0).getQuantity() - 1);
             }

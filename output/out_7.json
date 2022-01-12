@@ -13,16 +13,12 @@
       "receivedGifts" : [ {
         "productName" : "Uno",
         "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Books"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -36,21 +32,16 @@
       "receivedGifts" : [ {
         "productName" : "Uno",
         "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Doll",
         "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "category" : "Toys"
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Sweets"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Ionescu",
@@ -64,21 +55,16 @@
       "receivedGifts" : [ {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "category" : "Toys"
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Books"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -92,11 +78,8 @@
       "receivedGifts" : [ {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Board Games"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -112,16 +95,12 @@
       "receivedGifts" : [ {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Harry Potter",
         "price" : 35.0,
-        "category" : "Books",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Books"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -135,16 +114,12 @@
       "receivedGifts" : [ {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Sweets"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Ionescu",
@@ -158,16 +133,12 @@
       "receivedGifts" : [ {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Harry Potter",
         "price" : 35.0,
-        "category" : "Books",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Books"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -181,11 +152,8 @@
       "receivedGifts" : [ {
         "productName" : "Puzzle",
         "price" : 50.0,
-        "category" : "Board Games",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Board Games"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -201,16 +169,12 @@
       "receivedGifts" : [ {
         "productName" : "Puzzle",
         "price" : 50.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Harry Potter",
         "price" : 35.0,
-        "category" : "Books",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Books"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -224,16 +188,12 @@
       "receivedGifts" : [ {
         "productName" : "Puzzle",
         "price" : 50.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Sweets"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Ionescu",
@@ -247,11 +207,8 @@
       "receivedGifts" : [ {
         "productName" : "Shoes",
         "price" : 70.0,
-        "category" : "Clothes",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Clothes"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -262,9 +219,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 7.0, 2.0, 1.0 ],
       "assignedBudget" : 158.21428571428572,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     } ]
   }, {
     "children" : [ {
@@ -277,9 +232,7 @@
       "averageScore" : 8.5,
       "niceScoreHistory" : [ 4.0, 10.0, 10.0, 10.0 ],
       "assignedBudget" : 150.92184368737475,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -293,16 +246,12 @@
       "receivedGifts" : [ {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
+        "category" : "Sweets"
       }, {
         "productName" : "Shoes",
         "price" : 70.0,
-        "category" : "Clothes",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Clothes"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Ionescu",
@@ -316,11 +265,8 @@
       "receivedGifts" : [ {
         "productName" : "Shoes",
         "price" : 70.0,
-        "category" : "Clothes",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Clothes"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -331,9 +277,7 @@
       "averageScore" : 4.75,
       "niceScoreHistory" : [ 7.0, 2.0, 1.0, 9.0 ],
       "assignedBudget" : 84.33867735470943,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     } ]
   }, {
     "children" : [ {
@@ -346,9 +290,7 @@
       "averageScore" : 8.8,
       "niceScoreHistory" : [ 4.0, 10.0, 10.0, 10.0, 10.0 ],
       "assignedBudget" : 155.936,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -362,16 +304,12 @@
       "receivedGifts" : [ {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
+        "category" : "Sweets"
       }, {
         "productName" : "Shoes",
         "price" : 70.0,
-        "category" : "Clothes",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Clothes"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Ionescu",
@@ -385,11 +323,8 @@
       "receivedGifts" : [ {
         "productName" : "Shoes",
         "price" : 70.0,
-        "category" : "Clothes",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Clothes"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -400,9 +335,7 @@
       "averageScore" : 4.4,
       "niceScoreHistory" : [ 7.0, 2.0, 1.0, 9.0, 3.0 ],
       "assignedBudget" : 77.968,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     } ]
   }, {
     "children" : [ {
@@ -415,9 +348,7 @@
       "averageScore" : 9.0,
       "niceScoreHistory" : [ 4.0, 10.0, 10.0, 10.0, 10.0, 10.0 ],
       "assignedBudget" : 148.98042704626334,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     }, {
       "id" : 1,
       "lastName" : "Popa",
@@ -431,11 +362,8 @@
       "receivedGifts" : [ {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Sweets"
+      } ]
     }, {
       "id" : 2,
       "lastName" : "Ionescu",
@@ -446,9 +374,7 @@
       "averageScore" : 6.619047619047619,
       "niceScoreHistory" : [ 7.0, 3.0, 4.0, 9.0, 6.0, 8.0 ],
       "assignedBudget" : 109.567615658363,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -459,9 +385,7 @@
       "averageScore" : 5.333333333333333,
       "niceScoreHistory" : [ 7.0, 2.0, 1.0, 9.0, 3.0, 10.0 ],
       "assignedBudget" : 88.2846975088968,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     } ]
   } ]
 }

@@ -10,9 +10,7 @@
       "averageScore" : 6.0,
       "niceScoreHistory" : [ 6.0 ],
       "assignedBudget" : 9.375,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     }, {
       "id" : 1,
       "lastName" : "Cantemir",
@@ -23,9 +21,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 7.0 ],
       "assignedBudget" : 15.625,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     } ]
   }, {
     "children" : [ {
@@ -41,11 +37,8 @@
       "receivedGifts" : [ {
         "productName" : "Doll",
         "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 3
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Cantemir",
@@ -56,9 +49,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 7.0, 6.0 ],
       "assignedBudget" : 13.88888888888889,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     } ]
   }, {
     "children" : [ {
@@ -71,9 +62,7 @@
       "averageScore" : 6.5,
       "niceScoreHistory" : [ 6.0, 9.0, 5.0 ],
       "assignedBudget" : 9.848484848484848,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     }, {
       "id" : 1,
       "lastName" : "Cantemir",
@@ -84,9 +73,7 @@
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 7.0, 6.0, 10.0 ],
       "assignedBudget" : 15.151515151515152,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     } ]
   } ]
 }

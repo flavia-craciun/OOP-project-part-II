@@ -43,7 +43,7 @@ public abstract class DeliverPresents {
         for (Category giftPreference : childGiftsPreferences) {
             List<Gifts> giftsFromCategory = getGiftsFromCategory(giftPreference, santaGiftsList);
             for (Gifts gift : giftsFromCategory) {
-                if (gift.getPrice() <= budget && gift.getQuantity() != 0) {
+                if (gift.getPrice() <= budget && gift.getQuantity() > 0) {
                     child.getReceivedGifts().add(gift);
                     gift.setQuantity(gift.getQuantity() - 1);
                     budget = budget - gift.getPrice();

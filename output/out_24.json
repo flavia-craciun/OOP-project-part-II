@@ -13,16 +13,12 @@
       "receivedGifts" : [ {
         "productName" : "Uno",
         "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 2
+        "category" : "Board Games"
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 40.0,
-      "elf" : "yellow"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Ionescu",
@@ -36,16 +32,12 @@
       "receivedGifts" : [ {
         "productName" : "Bag of Candy",
         "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 0
+        "category" : "Sweets"
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 70.0,
-      "elf" : "white"
+        "category" : "Toys"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -61,21 +53,16 @@
       "receivedGifts" : [ {
         "productName" : "Handbag",
         "price" : 200.0,
-        "category" : "Clothes",
-        "quantity" : 1
+        "category" : "Clothes"
       }, {
         "productName" : "Uno",
         "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 2
+        "category" : "Board Games"
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 40.0,
-      "elf" : "yellow"
+        "category" : "Toys"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -91,16 +78,12 @@
       "receivedGifts" : [ {
         "productName" : "Uno",
         "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 2
+        "category" : "Board Games"
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 40.0,
-      "elf" : "yellow"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 5,
       "lastName" : "Pop",
@@ -110,15 +93,12 @@
       "giftsPreferences" : [ "Sweets" ],
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 6.0 ],
-      "assignedBudget" : 69.82758620689654,
+      "assignedBudget" : 90.77586206896551,
       "receivedGifts" : [ {
         "productName" : "Bag of Candy",
         "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 80.0,
-      "elf" : "pink"
+        "category" : "Sweets"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -134,21 +114,16 @@
       "receivedGifts" : [ {
         "productName" : "Doll",
         "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 4
+        "category" : "Toys"
       }, {
         "productName" : "Handbag",
         "price" : 200.0,
-        "category" : "Clothes",
-        "quantity" : 1
+        "category" : "Clothes"
       }, {
         "productName" : "Uno",
         "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 2
-      } ],
-      "niceScoreBonus" : 40.0,
-      "elf" : "yellow"
+        "category" : "Board Games"
+      } ]
     }, {
       "id" : 5,
       "lastName" : "Pop",
@@ -162,16 +137,12 @@
       "receivedGifts" : [ {
         "productName" : "Doll",
         "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 4
+        "category" : "Toys"
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 80.0,
-      "elf" : "pink"
+        "category" : "Sweets"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -187,21 +158,16 @@
       "receivedGifts" : [ {
         "productName" : "Uno",
         "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 2
+        "category" : "Board Games"
       }, {
-        "productName" : "Handbag",
-        "price" : 200.0,
-        "category" : "Clothes",
-        "quantity" : 1
+        "productName" : "Dress",
+        "price" : 45.0,
+        "category" : "Clothes"
       }, {
         "productName" : "Doll",
         "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 4
-      } ],
-      "niceScoreBonus" : 40.0,
-      "elf" : "yellow"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 5,
       "lastName" : "Pop",
@@ -211,25 +177,20 @@
       "giftsPreferences" : [ "Clothes", "Toys", "Sweets" ],
       "averageScore" : 10.0,
       "niceScoreHistory" : [ 6.0 ],
-      "assignedBudget" : 370.35490605427975,
+      "assignedBudget" : 481.46137787056364,
       "receivedGifts" : [ {
-        "productName" : "Handbag",
-        "price" : 200.0,
-        "category" : "Clothes",
-        "quantity" : 1
+        "productName" : "Dress",
+        "price" : 45.0,
+        "category" : "Clothes"
       }, {
         "productName" : "Doll",
         "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 4
+        "category" : "Toys"
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 80.0,
-      "elf" : "pink"
+        "category" : "Sweets"
+      } ]
     }, {
       "id" : 6,
       "lastName" : "Stoica",
@@ -243,16 +204,12 @@
       "receivedGifts" : [ {
         "productName" : "Uno",
         "price" : 10.0,
-        "category" : "Board Games",
-        "quantity" : 2
+        "category" : "Board Games"
       }, {
-        "productName" : "Handbag",
-        "price" : 200.0,
-        "category" : "Clothes",
-        "quantity" : 1
-      } ],
-      "niceScoreBonus" : 10.0,
-      "elf" : "white"
+        "productName" : "Dress",
+        "price" : 45.0,
+        "category" : "Clothes"
+      } ]
     } ]
   } ]
 }

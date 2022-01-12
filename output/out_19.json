@@ -13,21 +13,16 @@
       "receivedGifts" : [ {
         "productName" : "Lego",
         "price" : 30.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "category" : "Toys"
       }, {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 0
+        "category" : "Clothes"
       }, {
         "productName" : "Gummy Bears",
         "price" : 10.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Sweets"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -43,16 +38,12 @@
       "receivedGifts" : [ {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 0
+        "category" : "Clothes"
       }, {
         "productName" : "Bag of Candy",
         "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Sweets"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -66,16 +57,12 @@
       "receivedGifts" : [ {
         "productName" : "Shoes",
         "price" : 70.0,
-        "category" : "Clothes",
-        "quantity" : 2
+        "category" : "Clothes"
       }, {
         "productName" : "Milk and Cookies",
         "price" : 30.0,
-        "category" : "Sweets",
-        "quantity" : 4
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Sweets"
+      } ]
     }, {
       "id" : 4,
       "lastName" : "Stoica",
@@ -89,11 +76,8 @@
       "receivedGifts" : [ {
         "productName" : "Milk and Cookies",
         "price" : 30.0,
-        "category" : "Sweets",
-        "quantity" : 4
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Sweets"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -109,16 +93,12 @@
       "receivedGifts" : [ {
         "productName" : "Shoes",
         "price" : 70.0,
-        "category" : "Clothes",
-        "quantity" : 2
+        "category" : "Clothes"
       }, {
         "productName" : "Milk and Cookies",
         "price" : 30.0,
-        "category" : "Sweets",
-        "quantity" : 4
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Sweets"
+      } ]
     }, {
       "id" : 3,
       "lastName" : "Pop",
@@ -132,16 +112,12 @@
       "receivedGifts" : [ {
         "productName" : "Shoes",
         "price" : 70.0,
-        "category" : "Clothes",
-        "quantity" : 2
+        "category" : "Clothes"
       }, {
         "productName" : "Milk and Cookies",
         "price" : 30.0,
-        "category" : "Sweets",
-        "quantity" : 4
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Sweets"
+      } ]
     }, {
       "id" : 4,
       "lastName" : "Stoica",
@@ -155,16 +131,12 @@
       "receivedGifts" : [ {
         "productName" : "Shoes",
         "price" : 70.0,
-        "category" : "Clothes",
-        "quantity" : 2
+        "category" : "Clothes"
       }, {
         "productName" : "Milk and Cookies",
         "price" : 30.0,
-        "category" : "Sweets",
-        "quantity" : 4
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Sweets"
+      } ]
     } ]
   } ]
 }

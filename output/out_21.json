@@ -9,35 +9,24 @@
       "giftsPreferences" : [ "Sweets", "Board Games", "Books", "Technology", "Toys" ],
       "averageScore" : 5.2,
       "niceScoreHistory" : [ 4.0 ],
-      "assignedBudget" : 934.0,
+      "assignedBudget" : 653.8,
       "receivedGifts" : [ {
         "productName" : "Bag of Candy",
         "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 0
+        "category" : "Sweets"
       }, {
         "productName" : "Puzzle",
         "price" : 50.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 6
-      }, {
-        "productName" : "Iphone",
-        "price" : 700.0,
-        "category" : "Technology",
-        "quantity" : 4
+        "category" : "Books"
       }, {
         "productName" : "Car",
         "price" : 20.0,
-        "category" : "Toys",
-        "quantity" : 5
-      } ],
-      "niceScoreBonus" : 30.0,
-      "elf" : "black"
+        "category" : "Toys"
+      } ]
     } ]
   }, {
     "children" : [ ]
@@ -57,21 +46,16 @@
       "receivedGifts" : [ {
         "productName" : "Bag of Candy",
         "price" : 20.0,
-        "category" : "Sweets",
-        "quantity" : 0
+        "category" : "Sweets"
       }, {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 4
+        "category" : "Clothes"
       }, {
         "productName" : "Iphone",
         "price" : 700.0,
-        "category" : "Technology",
-        "quantity" : 4
-      } ],
-      "niceScoreBonus" : 80.0,
-      "elf" : "white"
+        "category" : "Technology"
+      } ]
     } ]
   } ]
 }

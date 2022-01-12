@@ -13,16 +13,12 @@
       "receivedGifts" : [ {
         "productName" : "Headphones",
         "price" : 100.0,
-        "category" : "Technology",
-        "quantity" : 0
+        "category" : "Technology"
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 7
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Board Games"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Ionescu",
@@ -36,16 +32,12 @@
       "receivedGifts" : [ {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 1
+        "category" : "Clothes"
       }, {
         "productName" : "Doll",
         "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Toys"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -61,11 +53,8 @@
       "receivedGifts" : [ {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 7
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Board Games"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Ionescu",
@@ -79,16 +68,12 @@
       "receivedGifts" : [ {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 1
+        "category" : "Clothes"
       }, {
         "productName" : "Doll",
         "price" : 10.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Toys"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -104,21 +89,16 @@
       "receivedGifts" : [ {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 1
+        "category" : "Clothes"
       }, {
         "productName" : "Car",
         "price" : 20.0,
-        "category" : "Toys",
-        "quantity" : 6
+        "category" : "Toys"
       }, {
         "productName" : "Laptop",
         "price" : 500.0,
-        "category" : "Technology",
-        "quantity" : 7
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Technology"
+      } ]
     } ]
   }, {
     "children" : [ ]

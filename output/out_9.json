@@ -13,16 +13,12 @@
       "receivedGifts" : [ {
         "productName" : "Puzzle",
         "price" : 50.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 4
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -33,9 +29,7 @@
       "averageScore" : 5.0,
       "niceScoreHistory" : [ 5.0 ],
       "assignedBudget" : 60.0,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     }, {
       "id" : 2,
       "lastName" : "Pop",
@@ -49,21 +43,16 @@
       "receivedGifts" : [ {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 6
+        "category" : "Books"
       }, {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 3
+        "category" : "Clothes"
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 4
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Toys"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -79,16 +68,12 @@
       "receivedGifts" : [ {
         "productName" : "Puzzle",
         "price" : 50.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 4
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -99,9 +84,7 @@
       "averageScore" : 6.0,
       "niceScoreHistory" : [ 5.0, 7.0 ],
       "assignedBudget" : 68.57142857142857,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     }, {
       "id" : 2,
       "lastName" : "Pop",
@@ -115,21 +98,16 @@
       "receivedGifts" : [ {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 6
+        "category" : "Books"
       }, {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 3
+        "category" : "Clothes"
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 4
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Toys"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -145,16 +123,12 @@
       "receivedGifts" : [ {
         "productName" : "Puzzle",
         "price" : 50.0,
-        "category" : "Board Games",
-        "quantity" : 0
+        "category" : "Board Games"
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 4
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Mihalache",
@@ -165,9 +139,7 @@
       "averageScore" : 5.0,
       "niceScoreHistory" : [ 5.0, 7.0, 3.0 ],
       "assignedBudget" : 67.28971962616824,
-      "receivedGifts" : [ ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+      "receivedGifts" : [ ]
     }, {
       "id" : 2,
       "lastName" : "Pop",
@@ -181,16 +153,12 @@
       "receivedGifts" : [ {
         "productName" : "Diary of a Wimpy Kid",
         "price" : 25.0,
-        "category" : "Books",
-        "quantity" : 6
+        "category" : "Books"
       }, {
         "productName" : "Dress",
         "price" : 45.0,
-        "category" : "Clothes",
-        "quantity" : 3
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "white"
+        "category" : "Clothes"
+      } ]
     } ]
   } ]
 }

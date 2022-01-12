@@ -42,4 +42,5 @@ public final class ChildUpdate {
     public void setElf(final ElvesType elf) {
         this.elf = elf;
     }
+
 }

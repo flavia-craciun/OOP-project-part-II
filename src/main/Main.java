@@ -41,7 +41,7 @@ public final class Main {
         }
 
         // Parsing the input from the json files
-        for (int testNumber = 1; testNumber <= Constants.TESTS_NUMBER; testNumber++) {
+        for (int testNumber = 28; testNumber <= 28; testNumber++) {
             File inputFile = new File(Constants.INPUT_PATH + testNumber
                     + Constants.FILE_EXTENSION);
             InputData input = objectMapper.readValue(inputFile, InputData.class);

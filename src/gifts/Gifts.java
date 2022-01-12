@@ -1,5 +1,7 @@
 package gifts;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import enums.Category;
 
 public final class Gifts {
@@ -32,10 +34,12 @@ public final class Gifts {
         this.category = category;
     }
 
+    @JsonIgnore
     public int getQuantity() {
         return quantity;
     }
 
+    @JsonProperty
     public void setQuantity(final int quantity) {
         this.quantity = quantity;
     }

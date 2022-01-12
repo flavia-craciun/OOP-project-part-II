@@ -13,11 +13,8 @@
       "receivedGifts" : [ {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Stoica",
@@ -31,16 +28,12 @@
       "receivedGifts" : [ {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "category" : "Toys"
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 3
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "category" : "Books"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -56,11 +49,8 @@
       "receivedGifts" : [ {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Stoica",
@@ -74,16 +64,12 @@
       "receivedGifts" : [ {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "category" : "Toys"
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 7
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "category" : "Board Games"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -99,16 +85,12 @@
       "receivedGifts" : [ {
         "productName" : "Twilight",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 3
+        "category" : "Books"
       }, {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "category" : "Toys"
+      } ]
     }, {
       "id" : 1,
       "lastName" : "Stoica",
@@ -122,11 +104,8 @@
       "receivedGifts" : [ {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "category" : "Toys"
+      } ]
     } ]
   }, {
     "children" : [ {
@@ -142,21 +121,16 @@
       "receivedGifts" : [ {
         "productName" : "Teddy Bear",
         "price" : 5.0,
-        "category" : "Toys",
-        "quantity" : 0
+        "category" : "Toys"
       }, {
         "productName" : "Twilight",
         "price" : 30.0,
-        "category" : "Books",
-        "quantity" : 3
+        "category" : "Books"
       }, {
         "productName" : "Monopoly",
         "price" : 30.0,
-        "category" : "Board Games",
-        "quantity" : 7
-      } ],
-      "niceScoreBonus" : 0.0,
-      "elf" : "yellow"
+        "category" : "Board Games"
+      } ]
     } ]
   } ]
 }
